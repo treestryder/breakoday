@@ -40,25 +40,25 @@ Index
 35 In the Orchard Again 339
 Copyright
 
-  I.      A Rural Philosopher
-  II.     The New Jerusalem
-  III.    A Glimpse of Farm Service
-  IV.     A Cirrus becomes a Nimbus
-  V.      Ramoth Gilead Predicted
-  VI.     The Guerrero Mining Company
-  YII.    Montcalm takes a Night's Ramble
-  VIII.   Pursuing the Depredators
-  IX.     How the Affair Ended
-  X.      Two Kinds of Bud Blossom
-  XI.     The Root of an Evil
-  XII.    The Well with a Barrel Curb
-  XIII.   A Daniel come to Judgment
-  XIV.    Montcalm finds Dante inaccurate
-  XV.     Ivanhoe Criticised by a Master
-  XVI.    Mrs. Boyle's House
-  XVII.   What Happened in the Swamp
-  XVIII.  Break O'Day
-  XIX.    The Village has a Sensation
+  I.      A Rural Philosopher x
+  II.     The New Jerusalem x
+  III.    A Glimpse of Farm Service x
+  IV.     A Cirrus becomes a Nimbus x
+  V.      Ramoth Gilead Predicted x
+  VI.     The Guerrero Mining Company x
+  YII.    Montcalm takes a Night's Ramble x
+  VIII.   Pursuing the Depredators x
+  IX.     How the Affair Ended x
+  X.      Two Kinds of Bud Blossom x
+  XI.     The Root of an Evil x
+  XII.    The Well with a Barrel Curb x
+  XIII.   A Daniel come to Judgment x
+  XIV.    Montcalm finds Dante inaccurate x
+  XV.     Ivanhoe Criticised by a Master x
+  XVI.    Mrs. Boyle's House x
+  XVII.   What Happened in the Swamp x
+  XVIII.  Break O'Day x
+  XIX.    The Village has a Sensation x
   XX.     A Good Samaritan
   XXI.    Controversy and Reminiscence
   XXII.   Action is Equal to Reaction
@@ -80,6 +80,7 @@ Copyright
 
 PEOPLE
 
+Boyle, Alfred (Alf)
 Boyle, Mrs. 
 Durgenson
 Montcalm, Mr. 
