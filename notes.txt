@@ -2,42 +2,6 @@ CHAPTERS
 
 x = completed first pass
 
-Index
-01 A Rural Philosopher 1 x
-02 The New Jerusalem 10 x
-03 A Glimpse of Farm Service 17 x
-04 A Cirrus becomes a Nimbus 27 x
-05 Ramoth Gilead Predicted 36 x
-06 The Guerrero Mining Company 50 x
-07 Montcalm takes a Nights Ramble 62 x
-08 Pursuing the Depredators 78 x
-09 The Village has a Sensation 179 x
-10 A Good Samaritan 189 x
-11 Controversy and Reminiscence 198 x
-12 Action is Equal to Reaction 211 x
-13 One Hour of Bliss 223 x
-14 A Beethoven and a Gibbon in one 233 x
-15 Durgenson Demands his Money 243 x
-16 Ramoth Gilead 252 x
-17 How the Affair Ended 86 x
-18 Two Kinds of Bud Blossom 98 x
-19 The Root of an Evil 104 x
-20 The Well with a Barrel Curb 112 
-21 A Daniel come to Judgment 123
-22 Montcalm finds Dante inaccurate 134
-23 Ivanhoe Criticised by a Master 147
-24 Mrs Boyles House 153
-25 What Happened in the Swamp 162
-26 Break ODay 170
-27 John hears an Account of his Adventure 265
-28 Among the Invalids 271
-29 The Beginning of Mystery 280
-30 Awakening 293
-31 Liber Sextus 306
-32 The House Divided against Itself 317
-33 Verdure rising from the Ashes 328
-34 Stray Locals 337
-35 In the Orchard Again 339
 Copyright
 
   I.      A Rural Philosopher x
@@ -59,7 +23,7 @@ Copyright
   XVII.   What Happened in the Swamp x
   XVIII.  Break O'Day x
   XIX.    The Village has a Sensation x
-  XX.     A Good Samaritan
+  XX.     A Good Samaritan x
   XXI.    Controversy and Reminiscence
   XXII.   Action is Equal to Reaction
   XXIII.  One Hour of Bliss
