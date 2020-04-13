@@ -127,6 +127,11 @@ you do as I tell you, it is my lookout if your service is
 unprofitable. After this you use the tool I give you to work
 with."
 
+EDITING
+Notes: [nh Note]
+Position marked with: [nh pageNumber]
+
+
 OTHER
 
 __ Look at distributed proofing http://www.pgdp.net/c/
