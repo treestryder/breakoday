@@ -4,12 +4,15 @@ by Edward Everett Howe
 
 [Transcribers's Notes]
 
-Though this book was scanned, then processed with optical character
-recognition, by Google, there were many parts of the book that needed
-to be cleaned up before it could be a proper e-book. This book has been 
-lovingly repaired and released through the Gutenberg Project by
-Nathan Hartley in honor of his Great-Great-Great-Grandfather 
-George Washington Holland Jr, from whom these stories originate.
+This work was scanned and processed with optical character
+recognition (OCR) by Google. However, there was much to
+fix before it could be a proper e-book. For instance, stray
+characters, incorrect characters, hyphens to be removed, entire
+pages missing or gibberish. This repair work was completed and
+the book released through the Gutenberg Project by Nathan Hartley.
+Nathan performed this work in honor of his Great-Great-Great-Grandfather
+George Washington Holland Jr, from whom these stories are believed to
+have originated.
 
 From "An Account of Ingham County From Its Organization"
 by Frank Turner, George Fuller and Michigan Pioneer and Historical Society.
@@ -28,6 +31,7 @@ Printing company."
 
 [End Transcribers's Notes]
 
+[Google's Notes]
 
 Author:                       Edward Everett Howe
 Publisher:                    Arena
@@ -86,7 +90,7 @@ character recognition or other areas where access to a large amount of text is
 helpful, please contact us. We encourage the use of public domain materials for
 these purposes and may be able to help.
 
-+ Maintain attributionTht GoogXt "watermark" you see on each file is essential
++ Maintain attribution the Google "watermark" you see on each file is essential
 for in forming people about this project and helping them find additional
 materials through Google Book Search. Please do not remove it.
 
@@ -109,7 +113,7 @@ the world's books while helping authors and publishers reach new audiences. You
 can search through the full text of this book on the web at
 http://books.google.com/
 
-
+[End Google's Notes]
 
 
 THE CHRONICLES OF BREAK O'Day
@@ -141,8 +145,8 @@ and poor, a comforter of the afflicted, a friend of the
 friendless, a mother of the motherless, in prosperity
 without arrogance, in sorrow without complaint. To
 Mrs. Fidelia Gibbins, whose character suggested the
-Mrs. Boyle of my story, this volume is respectfully dedi-
-cated.
+Mrs. Boyle of my story, this volume is respectfully
+dedicated.
 
 
 
