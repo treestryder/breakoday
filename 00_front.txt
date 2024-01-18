@@ -76,7 +76,7 @@ USAGE GUIDELINES
 Google is proud to partner with libraries to digitize public domain materials
 and make them widely accessible. Public domain books belong to the public and
 we are merely their custodians. Nevertheless, this work is expensive, so in
-order to keep providing tliis resource, we liave taken steps to prevent abuse
+order to keep providing this resource, we have taken steps to prevent abuse
 by commercial parties, including placing technical restrictions on automated
 querying.  We also ask that you:
 
@@ -101,7 +101,7 @@ work is also in the public domain for users in other countries. Whether a book
 is still in copyright varies from country to country, and we can't offer
 guidance on whether any specific use of any specific book is allowed. Please do
 not assume that a book's appearance in Google Book Search means it can be used
-in any manner anywhere in the world. Copyright infringement liabili^ can be
+in any manner anywhere in the world. Copyright infringement liabilities can be
 quite severe. 
 
 
