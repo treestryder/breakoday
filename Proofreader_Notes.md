@@ -1,82 +1,86 @@
+# Proofreader Notes
 
-Scanned Book
+## Volunteers’ FAQ
+https://www.gutenberg.org/help/volunteers_faq.html
+
+## Scanned Book
+
 https://play.google.com/books/reader?id=ARw1AAAAMAAJ&num=10&printsec=frontcover&pg=GBS.PA217
 
-CHAPTERS
+## CHAPTERS
 
 x = completed first pass
 
-Copyright
-
-  I.      A Rural Philosopher x
-  II.     The New Jerusalem x
-  III.    A Glimpse of Farm Service x
-  IV.     A Cirrus becomes a Nimbus x
-  V.      Ramoth Gilead Predicted x
-  VI.     The Guerrero Mining Company x
-  YII.    Montcalm takes a Night's Ramble x
-  VIII.   Pursuing the Depredators x
-  IX.     How the Affair Ended x
-  X.      Two Kinds of Bud Blossom x
-  XI.     The Root of an Evil x
-  XII.    The Well with a Barrel Curb x
-  XIII.   A Daniel come to Judgment x
-  XIV.    Montcalm finds Dante inaccurate x
-  XV.     Ivanhoe Criticised by a Master x
-  XVI.    Mrs. Boyle's House x
-  XVII.   What Happened in the Swamp x
-  XVIII.  Break O'Day x
-  XIX.    The Village has a Sensation x
-  XX.     A Good Samaritan x
-  XXI.    Controversy and Reminiscence x
-  XXII.   Action is Equal to Reaction x
-  XXIII.  One Hour of Bliss x
-  XXIV.   A Beethoven and a Gibbon in one
-  XXV.    Durgenson Demands his Money
-  XXVI.   Ramoth Gilead
-  XXVII.  Ruin
-  XXVIII. John hears an Account of his Adventure 
-  XXIX.   Among the Invalids
-  XXX.    The Beginning of Mystery
-  XXXI.   Awakening
-  XXXII.  Liber Sextus
-  XXXIII. The House Divided against Itself
-  XXXIV.  Verdure rising from the Ashes
-  XXXV.   Stray Locals
-  XXXVI.  In the Orchard Again
-
-
-PEOPLE
-
-Abner Wallace, Mr.
-Baldwin, Mrs. - a sister of Senator Ballard.
-Boutwell - Wagon manufacturer.
-Boyle, Alfred (Alf) - cruel child.
-Boyle, Mrs.
-Brown, Mr. - One of Ratke's farm hands.
-Durgenson - shady cattle-buyer
-Holmes; Jennie - family who lived near the church.
-Jake Sheppard - offered a house to Ratke.
-James Ratke, Mr. aka major, aka the philosopher - main character
-Jim Turner - Friend of Ratke, with a peculiar white hat.
-Mallard, Senator - Friend of Ratke.
-Maria Grippin, Mrs. - Ratke' sister and housekeeper.
-Mark Daggett, Mr. - One of Ratke's farm hands.
-Montcalm, Mr. Trace? - One of Ratke's farm hands.
-Nora Warfle, Mrs. - Young lady that lives with Ratke.
-Panicky - Panacea, snake-oil salesman.
-Phleet Takum - the Cleatus of Break o' Day. Has mean dogs.
-Rorus, M.D. Mr. I. J. H. - Physician and Surgeon
-Sheppard, Mr. Jake - One of Ratke's farm hands.
-Sparks - Ratke's know-it-all neighbor with a southern drawl.
-Taylor - One of Ratke's horses.
-Will Archer - One of Ratke's hired hands.
-Whipple, Mr. 
-Wrengell, John - One of Ratke's farm hands.
-Wingscheut, Mr. - German
+ * Copyright
+ * I.      A Rural Philosopher x
+ * II.     The New Jerusalem x
+ * III.    A Glimpse of Farm Service x
+ * IV.     A Cirrus becomes a Nimbus x
+ * V.      Ramoth Gilead Predicted x
+ * VI.     The Guerrero Mining Company x
+ * YII.    Montcalm takes a Night's Ramble x
+ * VIII.   Pursuing the Depredators x
+ * IX.     How the Affair Ended x
+ * X.      Two Kinds of Bud Blossom x
+ * XI.     The Root of an Evil x
+ * XII.    The Well with a Barrel Curb x
+ * XIII.   A Daniel come to Judgment x
+ * XIV.    Montcalm finds Dante inaccurate x
+ * XV.     Ivanhoe Criticised by a Master x
+ * XVI.    Mrs. Boyle's House x
+ * XVII.   What Happened in the Swamp x
+ * XVIII.  Break O'Day x
+ * XIX.    The Village has a Sensation x
+ * XX.     A Good Samaritan x
+ * XXI.    Controversy and Reminiscence x
+ * XXII.   Action is Equal to Reaction x
+ * XXIII.  One Hour of Bliss x
+ * XXIV.   A Beethoven and a Gibbon in one x
+ * XXV.    Durgenson Demands his Money x
+ * XXVI.   Ramoth Gilead x
+ * XXVII.  Ruin x
+ * XXVIII. John hears an Account of his Adventure x
+ * XXIX.   Among the Invalids x
+ * XXX.    The Beginning of Mystery x
+ * XXXI.   Awakening _
+ * XXXII.  Liber Sextus
+ * XXXIII. The House Divided against Itself
+ * XXXIV.  Verdure rising from the Ashes
+ * XXXV.   Stray Locals
+ * XXXVI.  In the Orchard Again
 
 
-PLACES
+## PEOPLE
+
+ * Abner Wallace, Mr.
+ * Baldwin, Mrs. - a sister of Senator Ballard.
+ * Boutwell - Wagon manufacturer.
+ * Boyle, Alfred (Alf) - cruel child.
+ * Boyle, Mrs.
+ * Brown, Mr. - One of Ratke's farm hands.
+ * Durgenson - shady cattle-buyer
+ * Holmes; Jennie - family who lived near the church.
+ * Jake Sheppard - offered a house to Ratke.
+ * James Ratke, Mr. aka major, aka the philosopher - main character
+ * Jim Turner - Friend of Ratke, with a peculiar white hat.
+ * Mallard, Senator - Friend of Ratke.
+ * Maria Grippin, Mrs. - Ratke' sister and housekeeper.
+ * Mark Daggett, Mr. - One of Ratke's farm hands.
+ * Montcalm, Mr. Trace? - One of Ratke's farm hands.
+ * Nora Warfle, Mrs. - Young lady that lives with Ratke.
+ * Panicky - Panacea, snake-oil salesman.
+ * Phleet Takum - the Cleatus of Break o' Day. Has mean dogs.
+ * Rorus, M.D. Mr. I. J. H. - Physician and Surgeon
+ * Sheppard, Mr. Jake - One of Ratke's farm hands.
+ * Sparks - Ratke's know-it-all neighbor with a southern drawl.
+ * Taylor - One of Ratke's horses.
+ * Will Archer - One of Ratke's hired hands.
+ * Whipple, Mr. 
+ * Wrengell, John - One of Ratke's farm hands.
+ * Wingscheut, Mr. - German
+
+
+## PLACES
 
 Break o'Day is one of the oldest villages in Jackson
 County. It had its store and its school-house before the
@@ -134,17 +138,19 @@ You're in Washtenaw, now, township of Warren."
 "I wish to go to Break o'Day," said John.
 
 
-QOUTES
+## QUOTES
+
 "I pay you for your time," returned Ratke. "When
 you do as I tell you, it is my lookout if your service is
 unprofitable. After this you use the tool I give you to work
 with."
 
-EDITING
+## EDITING
+
 Notes: [nh Note]
-Position marked with: [nh pageNumber]
+Position marked with: [nh Page Number]
 
 
-OTHER
+## OTHER
 
 __ Look at distributed proofing http://www.pgdp.net/c/
