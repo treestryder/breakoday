@@ -42,7 +42,7 @@ x = completed first pass
  * XXVIII. John hears an Account of his Adventure x
  * XXIX.   Among the Invalids x
  * XXX.    The Beginning of Mystery x
- * XXXI.   Awakening _
+ * XXXI.   Awakening x
  * XXXII.  Liber Sextus
  * XXXIII. The House Divided against Itself
  * XXXIV.  Verdure rising from the Ashes
@@ -58,6 +58,7 @@ x = completed first pass
  * Boyle, Alfred (Alf) - cruel child.
  * Boyle, Mrs.
  * Brown, Mr. - One of Ratke's farm hands.
+ * Dabney, aka Panicky - Panacea, snake-oil salesman.
  * Durgenson - shady cattle-buyer
  * Holmes; Jennie - family who lived near the church.
  * Jake Sheppard - offered a house to Ratke.
@@ -68,7 +69,6 @@ x = completed first pass
  * Mark Daggett, Mr. - One of Ratke's farm hands.
  * Montcalm, Mr. Trace? - One of Ratke's farm hands.
  * Nora Warfle, Mrs. - Young lady that lives with Ratke.
- * Panicky - Panacea, snake-oil salesman.
  * Phleet Takum - the Cleatus of Break o' Day. Has mean dogs.
  * Rorus, M.D. Mr. I. J. H. - Physician and Surgeon
  * Sheppard, Mr. Jake - One of Ratke's farm hands.
