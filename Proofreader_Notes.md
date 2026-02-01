@@ -153,4 +153,36 @@ Position marked with: [nh Page Number]
 
 ## OTHER
 
+Article written in 1894 about this book: https://aadl.org/node/125251
 __ Look at distributed proofing http://www.pgdp.net/c/
+
+
+My great-great-great grandfather lived in the house just east of the Bunker Hill town hall. His name was George Washington Holland (1848-1922) and he wrote articles for the local papers under the pen name "Rough and Ready". Somehow his writings were used in the creation of the book 'The Chronicles of Break o' Day' by Edward Everett Howe.
+
+It was copyrighted 1893 and the story starts "One March morning in 187---".
+
+I read this book thinking Bunker Hill was the town named "Break O' Day", but after re-reading the following snippet I found in an Ingham County historical document, I realized that the backdrop of the story is near Webberville and the township just to the south of it.
+
+"G. W. Holland was historian and poet laureate of Bunkerhill and other townships where he resided for forty years. After I876 he became the regular correspondent of the Ingham County Democrat and News, the Leslie Local, Stockbridge Sun and Lansing Sentinel. He was justice of the peace for twenty-two years, so could write from his court docket all kinds of stories. His pen name was "Rough and Ready," and he edited a set of stories about White Oak and Leroy townships, "Chronicles of Break O' Day." These were revised and made into a book by E. Everett Howe that had quite a sale. Four editions were published by Robert Smith Printing company." -- http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001?rgn=main;view=fulltext
+
+Google
+http://books.google.com/books?id=ARw1AAAAMAAJ
+
+Google Plain Text
+http://books.google.com/books?printsec=frontcover&id=ARw1AAAAMAAJ&output=text
+
+or
+
+Archive.org - many formats
+http://archive.org/details/chroniclesbreak00howegoog
+
+or
+
+Michigan eLibrary lists a few physical copies you could request through your local library.
+http://elibrary.mel.org/search/a?searchtype=X&searcharg=the%20chronicles%20of%20break%20o%27%20day
+
+Google scanned the book at the U of M Library and it has a few rough patches. I would love to see someone, with more time than myself, clean it up. Maybe as part of the Gutenberg Project (http://gutenberg.org/).
+
+# E-Book Creation
+* HTML5 How To https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-processing_HTML5
+* https://ebookmaker.pglaf.org/
