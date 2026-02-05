@@ -1,7 +1,7 @@
 # Proofreader Notes
 
-## Volunteers’ FAQ
-https://www.gutenberg.org/help/volunteers_faq.html
+* [Volunteers’ FAQ](https://www.gutenberg.org/help/volunteers_faq.html)
+* [](https://copy.pglaf.org/status.php?id=51054)
 
 ## Scanned Book
 
@@ -9,45 +9,45 @@ https://play.google.com/books/reader?id=ARw1AAAAMAAJ&num=10&printsec=frontcover&
 
 ## CHAPTERS
 
-x = completed first pass
+The # at end of chapter title equals the pass completed.
 
  * Copyright
- * I.      A Rural Philosopher x
- * II.     The New Jerusalem x
- * III.    A Glimpse of Farm Service x
- * IV.     A Cirrus becomes a Nimbus x
- * V.      Ramoth Gilead Predicted x
- * VI.     The Guerrero Mining Company x
- * YII.    Montcalm takes a Night's Ramble x
- * VIII.   Pursuing the Depredators x
- * IX.     How the Affair Ended x
- * X.      Two Kinds of Bud Blossom x
- * XI.     The Root of an Evil x
- * XII.    The Well with a Barrel Curb x
- * XIII.   A Daniel come to Judgment x
- * XIV.    Montcalm finds Dante inaccurate x
- * XV.     Ivanhoe Criticised by a Master x
- * XVI.    Mrs. Boyle's House x
- * XVII.   What Happened in the Swamp x
- * XVIII.  Break O'Day x
- * XIX.    The Village has a Sensation x
- * XX.     A Good Samaritan x
- * XXI.    Controversy and Reminiscence x
- * XXII.   Action is Equal to Reaction x
- * XXIII.  One Hour of Bliss x
- * XXIV.   A Beethoven and a Gibbon in one x
- * XXV.    Durgenson Demands his Money x
- * XXVI.   Ramoth Gilead x
- * XXVII.  Ruin x
- * XXVIII. John hears an Account of his Adventure x
- * XXIX.   Among the Invalids x
- * XXX.    The Beginning of Mystery x
- * XXXI.   Awakening x
- * XXXII.  Liber Sextus
- * XXXIII. The House Divided against Itself
- * XXXIV.  Verdure rising from the Ashes
- * XXXV.   Stray Locals
- * XXXVI.  In the Orchard Again
+ * I.      A Rural Philosopher 2
+ * II.     The New Jerusalem 2
+ * III.    A Glimpse of Farm Service 1
+ * IV.     A Cirrus becomes a Nimbus 1
+ * V.      Ramoth Gilead Predicted 1
+ * VI.     The Guerrero Mining Company 1
+ * YII.    Montcalm takes a Night's Ramble 1
+ * VIII.   Pursuing the Depredators 1
+ * IX.     How the Affair Ended 1
+ * X.      Two Kinds of Bud Blossom 1
+ * XI.     The Root of an Evil 1
+ * XII.    The Well with a Barrel Curb 1
+ * XIII.   A Daniel come to Judgment 1
+ * XIV.    Montcalm finds Dante inaccurate 1
+ * XV.     Ivanhoe Criticised by a Master 1
+ * XVI.    Mrs. Boyle's House 1
+ * XVII.   What Happened in the Swamp 1
+ * XVIII.  Break O'Day 1
+ * XIX.    The Village has a Sensation 1
+ * XX.     A Good Samaritan 1
+ * XXI.    Controversy and Reminiscence 1
+ * XXII.   Action is Equal to Reaction 1
+ * XXIII.  One Hour of Bliss 1
+ * XXIV.   A Beethoven and a Gibbon in one 1
+ * XXV.    Durgenson Demands his Money 1
+ * XXVI.   Ramoth Gilead 1
+ * XXVII.  Ruin 1
+ * XXVIII. John hears an Account of his Adventure 1
+ * XXIX.   Among the Invalids 1
+ * XXX.    The Beginning of Mystery 1
+ * XXXI.   Awakening 1
+ * XXXII.  Liber Sextus 1
+ * XXXIII. The House Divided against Itself 1
+ * XXXIV.  Verdure rising from the Ashes 1
+ * XXXV.   Stray Locals 1
+ * XXXVI.  In the Orchard Again 1
 
 
 ## PEOPLE
@@ -186,3 +186,20 @@ Google scanned the book at the U of M Library and it has a few rough patches. I 
 # E-Book Creation
 * HTML5 How To https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Post-processing_HTML5
 * https://ebookmaker.pglaf.org/
+
+## Chapter Template
+
+<div class="chapter">
+    <h2><a id="Page_1"></a>
+        chapter<br>
+        <small>title</small>
+    </h2>
+
+    <p>
+        paragraph
+    </p>
+
+    <p>
+        paragraph
+    </p>
+</div>
