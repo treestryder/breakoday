@@ -198,8 +198,26 @@ Google scanned the book at the U of M Library and it has a few rough patches. I 
     <p>
         paragraph
     </p>
-
     <p>
         paragraph
     </p>
+</div>
+
+## Poetry Template
+
+<div class="poetry-container">
+    <div class="poetry">
+        <div class="stanza">
+            <div class="verse">Here is the first line</div>
+            <div class="verse">of the first verse</div>
+            <div class="verse">Here is the third line</div>
+            <div class="verse">of the same verse</div>
+        </div>
+        <div class="stanza">
+            <div class="verse">Here is line 1</div>
+            <div class="verse">of verse 2</div>
+            <div class="verse">Here is line 3</div>
+            <div class="verse">of the same verse</div>
+        </div>
+    </div>
 </div>
