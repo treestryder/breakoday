@@ -221,3 +221,15 @@ Google scanned the book at the U of M Library and it has a few rough patches. I 
         </div>
     </div>
 </div>
+
+## Letter Template
+<div class="letter-container">
+    <div class="letter">
+        <div class="location-date">location, date</div>
+        <div class="recipient">recipient</div>
+        <div class="recipient-location">location</div>
+        <div class="body">body</div>
+        <div class="closing">closing</div>
+        <div class="sender">sender</div>
+    </div>
+</div>
