@@ -14,8 +14,8 @@ The # at end of chapter title equals the pass completed.
  * Copyright
  * I.      A Rural Philosopher 2
  * II.     The New Jerusalem 2
- * III.    A Glimpse of Farm Service 1
- * IV.     A Cirrus becomes a Nimbus 1
+ * III.    A Glimpse of Farm Service 2
+ * IV.     A Cirrus becomes a Nimbus 2
  * V.      Ramoth Gilead Predicted 1
  * VI.     The Guerrero Mining Company 1
  * YII.    Montcalm takes a Night's Ramble 1
