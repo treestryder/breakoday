@@ -21,7 +21,7 @@ The # at end of chapter title equals the pass completed.
  * YII.    Montcalm takes a Night's Ramble 2
  * VIII.   Pursuing the Depredators 2
  * IX.     How the Affair Ended 2
- * X.      Two Kinds of Bud Blossom 1
+ * X.      Two Kinds of Bud Blossom 2
  * XI.     The Root of an Evil 1
  * XII.    The Well with a Barrel Curb 1
  * XIII.   A Daniel come to Judgment 1
