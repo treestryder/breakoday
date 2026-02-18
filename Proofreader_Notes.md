@@ -16,11 +16,11 @@ The # at end of chapter title equals the pass completed.
  * II.     The New Jerusalem 2
  * III.    A Glimpse of Farm Service 2
  * IV.     A Cirrus becomes a Nimbus 2
- * V.      Ramoth Gilead Predicted 1
- * VI.     The Guerrero Mining Company 1
- * YII.    Montcalm takes a Night's Ramble 1
- * VIII.   Pursuing the Depredators 1
- * IX.     How the Affair Ended 1
+ * V.      Ramoth Gilead Predicted 2
+ * VI.     The Guerrero Mining Company 2
+ * YII.    Montcalm takes a Night's Ramble 2
+ * VIII.   Pursuing the Depredators 2
+ * IX.     How the Affair Ended 2
  * X.      Two Kinds of Bud Blossom 1
  * XI.     The Root of an Evil 1
  * XII.    The Well with a Barrel Curb 1
@@ -188,48 +188,46 @@ Google scanned the book at the U of M Library and it has a few rough patches. I 
 * https://ebookmaker.pglaf.org/
 
 ## Chapter Template
+    <div class="chapter">
+        <h2><a id="Page_1"></a>
+            chapter<br>
+            <small>title</small>
+        </h2>
 
-<div class="chapter">
-    <h2><a id="Page_1"></a>
-        chapter<br>
-        <small>title</small>
-    </h2>
-
-    <p>
-        paragraph
-    </p>
-    <p>
-        paragraph
-    </p>
-</div>
+        <p>
+            paragraph
+        </p>
+        <p>
+            paragraph
+        </p>
+    </div>
 
 ## Poetry Template
-
-<div class="poetry-container">
-    <div class="poetry">
-        <div class="stanza">
-            <div class="verse">Here is the first line</div>
-            <div class="verse">of the first verse</div>
-            <div class="verse">Here is the third line</div>
-            <div class="verse">of the same verse</div>
-        </div>
-        <div class="stanza">
-            <div class="verse">Here is line 1</div>
-            <div class="verse">of verse 2</div>
-            <div class="verse">Here is line 3</div>
-            <div class="verse">of the same verse</div>
+    <div class="poetry-container">
+        <div class="poetry">
+            <div class="stanza">
+                <div class="verse">Here is the first line</div>
+                <div class="verse">of the first verse</div>
+                <div class="verse">Here is the third line</div>
+                <div class="verse">of the same verse</div>
+            </div>
+            <div class="stanza">
+                <div class="verse">Here is line 1</div>
+                <div class="verse">of verse 2</div>
+                <div class="verse">Here is line 3</div>
+                <div class="verse">of the same verse</div>
+            </div>
         </div>
     </div>
-</div>
 
 ## Letter Template
-<div class="letter-container">
-    <div class="letter">
-        <div class="location-date">location, date</div>
-        <div class="recipient">recipient</div>
-        <div class="recipient-location">location</div>
-        <div class="body">body</div>
-        <div class="closing">closing</div>
-        <div class="sender">sender</div>
+    <div class="letter-container">
+        <div class="letter">
+            <div class="location-date">location, date</div>
+            <div class="recipient">recipient</div>
+            <div class="recipient-location">location</div>
+            <div class="body">body</div>
+            <div class="closing">closing</div>
+            <div class="sender">sender</div>
+        </div>
     </div>
-</div>
