@@ -22,7 +22,7 @@ The # at end of chapter title equals the pass completed.
  * VIII.   Pursuing the Depredators 2
  * IX.     How the Affair Ended 2
  * X.      Two Kinds of Bud Blossom 2
- * XI.     The Root of an Evil 1
+ * XI.     The Root of an Evil 2
  * XII.    The Well with a Barrel Curb 1
  * XIII.   A Daniel come to Judgment 1
  * XIV.    Montcalm finds Dante inaccurate 1
