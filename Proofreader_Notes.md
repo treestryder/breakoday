@@ -18,12 +18,12 @@ The # at end of chapter title equals the pass completed.
  * IV.     A Cirrus becomes a Nimbus 2
  * V.      Ramoth Gilead Predicted 2
  * VI.     The Guerrero Mining Company 2
- * YII.    Montcalm takes a Night's Ramble 2
+ * VII.    Montcalm takes a Night's Ramble 2
  * VIII.   Pursuing the Depredators 2
  * IX.     How the Affair Ended 2
  * X.      Two Kinds of Bud Blossom 2
  * XI.     The Root of an Evil 2
- * XII.    The Well with a Barrel Curb 1
+ * XII.    The Well with a Barrel Curb 2
  * XIII.   A Daniel come to Judgment 1
  * XIV.    Montcalm finds Dante inaccurate 1
  * XV.     Ivanhoe Criticised by a Master 1
@@ -202,6 +202,13 @@ Google scanned the book at the U of M Library and it has a few rough patches. I 
         </p>
     </div>
 
+Then find and replace:
+    ^\n
+With:
+    </p>
+    <p>
+
+
 ## Poetry Template
     <div class="poetry-container">
         <div class="poetry">
@@ -231,3 +238,4 @@ Google scanned the book at the U of M Library and it has a few rough patches. I 
             <div class="sender">sender</div>
         </div>
     </div>
+
