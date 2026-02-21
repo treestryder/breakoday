@@ -24,8 +24,8 @@ The # at end of chapter title equals the pass completed.
  * X.      Two Kinds of Bud Blossom 2
  * XI.     The Root of an Evil 2
  * XII.    The Well with a Barrel Curb 2
- * XIII.   A Daniel come to Judgment 1
- * XIV.    Montcalm finds Dante inaccurate 1
+ * XIII.   A Daniel come to Judgment 2
+ * XIV.    Montcalm finds Dante inaccurate 2
  * XV.     Ivanhoe Criticised by a Master 1
  * XVI.    Mrs. Boyle's House 1
  * XVII.   What Happened in the Swamp 1
