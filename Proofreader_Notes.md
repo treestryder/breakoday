@@ -26,22 +26,22 @@ The # at end of chapter title equals the pass completed.
  * XII.    The Well with a Barrel Curb 2
  * XIII.   A Daniel come to Judgment 2
  * XIV.    Montcalm finds Dante inaccurate 2
- * XV.     Ivanhoe Criticised by a Master 1
- * XVI.    Mrs. Boyle's House 1
- * XVII.   What Happened in the Swamp 1
- * XVIII.  Break O'Day 1
- * XIX.    The Village has a Sensation 1
- * XX.     A Good Samaritan 1
- * XXI.    Controversy and Reminiscence 1
- * XXII.   Action is Equal to Reaction 1
- * XXIII.  One Hour of Bliss 1
- * XXIV.   A Beethoven and a Gibbon in one 1
- * XXV.    Durgenson Demands his Money 1
- * XXVI.   Ramoth Gilead 1
+ * XV.     Ivanhoe Criticised by a Master 2
+ * XVI.    Mrs. Boyle's House 2
+ * XVII.   What Happened in the Swamp 2
+ * XVIII.  Break O'Day 2
+ * XIX.    The Village has a Sensation 2
+ * XX.     A Good Samaritan 2
+ * XXI.    Controversy and Reminiscence 2
+ * XXII.   Action is Equal to Reaction 2
+ * XXIII.  One Hour of Bliss 2
+ * XXIV.   A Beethoven and a Gibbon in one 2
+ * XXV.    Durgenson Demands his Money 2
+ * XXVI.   Ramoth Gilead 2
  * XXVII.  Ruin 1
- * XXVIII. John hears an Account of his Adventure 1
- * XXIX.   Among the Invalids 1
- * XXX.    The Beginning of Mystery 1
+ * XXVIII. John hears an Account of his Adventure 2
+ * XXIX.   Among the Invalids 2
+ * XXX.    The Beginning of Mystery 2
  * XXXI.   Awakening 1
  * XXXII.  Liber Sextus 1
  * XXXIII. The House Divided against Itself 1
