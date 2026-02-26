@@ -239,3 +239,19 @@ With:
         </div>
     </div>
 
+
+# To Do
+* _ Move detailed Transcriber's Note to the end.
+* _ Remove Google's note.
+* _ Find and share at submission the URL from which you downloaded the source scans/files in the copyright clearance form's Scans Archive field.
+* _ Share at submission a Credit line in the upload form's Credit field.  A typical entry would be something like "Nathan Hartley from scans obtained from the Internet Archive".  Distributed Proofreaders includes this in their Credit line: "(This file was produced from images generously made available by the Internet Archive".  (PG's posting software prefixes "Thanks to" to whatever's in the field.
+* _ Compress the cover, at over 11M, is far too large, file-size-wise.  Experimentally, I used Irfanview (https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.irfanview.com%2F&data=05%7C02%7C%7C1a9a1185c64c4584351508de7433a157%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639075962259618302%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fm5XroLVRnM99%2Bq%2BkSFKr5xsrqVpYL7%2F5%2B3z4qxfMUk%3D&reserved=0) to reduce it to 30% of its original size (no other changes), reducing the file size from 11M to approximately 772K.
+* _ Try submitting without the TXT file. Your text file isn't properly formatted to PG's standard of 65-70 characters/line.
+* _ Read Section 7 of PG's old Volunteers' FAQ at
+(https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fweb.archive.org%2Fweb%2F20191203093834%2Fhttp%3A%2Fdwww.gutenberg.org%2Fwiki%2FCategory%3AFAQ&data=05%7C02%7C%7C1a9a1185c64c4584351508de7433a157%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639075962259637348%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bnP9x0FugiJkYWJYLd1TmZoPFblVlrPg9bFbWzrPtmc%3D&reserved=0).  Much of the FAQ is somewhat outdated, but Section 7 gives considerable information on PG's standards and expectations for text files.
+* _ Test with PG utilities for checking text files or use the results given. On PG's upload page (https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fupload.pglaf.org%2F&data=05%7C02%7C%7C1a9a1185c64c4584351508de7433a157%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639075962259649708%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PsHNGJuyZ4xli81h52Gd4DFrF46uKIumWwONHujcXCk%3D&reserved=0), in the Recommended Additional Checks section, are links to two: pptext and pphtml.  Another three are Gutcheck (flags common OCR errors), Jeebies (flags he/be errors), and Gutspell (a spell checker).  They can be downloaded from https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.pglaf.org%2F~ajhaines%2F&data=05%7C02%7C%7C1a9a1185c64c4584351508de7433a157%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639075962259660079%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9gI2yYHXRFd0B0Hp4ooIpifaGI2Ffupp%2BeopjTIgi1c%3D&reserved=0.  (Right-click and choose Save Link As.) They work on text files only, and are command-line utilities (no graphic interface).  I've attached a how-to text file describing their use.  Note that they're advisory, not definitive--just because they flag something doesn't mean that something is actually wrong.  The source scans are the authority.
+* _ wrongspaced quotes
+* _ line-end hyphens (not allowed in PG's text files)
+* _ spaced punctuation
+* _ inconsistent emdashes (you've used a mix of two and three hyphens.  PG's standard is two for a normal emdash; four for a long-emdash).
+* _ Resubmit, mentioning in the upload form's Notes to Whitewashers field that it's for Al Haines attention.
