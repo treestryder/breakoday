@@ -1,121 +1,3 @@
-The Chronicles of Break o'Day
-by Edward Everett Howe
-1893
-
-[Transcribers's Notes]
-
-This work was scanned and processed with optical character
-recognition (OCR) by Google. However, there was much to
-fix before it could be a proper e-book. For instance, stray
-characters, incorrect characters, hyphens to be removed, entire
-pages missing or gibberish. This repair work was completed and
-the book released through the Gutenberg Project by Nathan Hartley.
-Nathan performed this work in honor of his Great-Great-Great-Grandfather
-George Washington Holland Jr, from whom these stories are believed to
-have originated.
-
-From "An Account of Ingham County From Its Organization"
-by Frank Turner, George Fuller and Michigan Pioneer and Historical Society.
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-"G. W. Holland was historian and poet laureate of Bunkerhill and
-other townships where he resided for forty years. After 1876 he
-became the regular correspondent of the Ingham County Democrat
-and News, the Leslie Local, Stockbridge Sun and Lansing Sentinel.
-He was justice of the peace for twenty-two years, so could write
-from his court docket all kinds of stories. His pen name was
-"Rough and Ready," and he edited a set of stories about White
-Oak and Leroy townships, "Chronicles of Break o'Day." These
-were revised and made into a book by E. Everett Howe that had
-quite a sale. Four editions were published by Robert Smith
-Printing company."
-
-[End Transcribers's Notes]
-
-[Google's Notes]
-
-Author:                       Edward Everett Howe
-Publisher:                    Arena
-Year:                         1893
-Possible copyright status:    NOT_IN_COPYRIGHT
-Language:                     English
-Digitizing sponsor:           Google
-Book from the collections of: University of Michigan
-Collection:                   americana
-Description:
-
-Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.
-
-Identifier:                   chroniclesbreak00howegoog
-Scanner:                      google
-Mediatype:                    texts
-Identifier-access:            http://www.archive.org/details/chroniclesbreak00howegoog
-Oclc-id:                      65747673
-Scandate:                     20070524
-Copyright-region:             US
-Identifier-ark:               ark:/13960/t6h130v0s
-Imagecount:                   360
-Source:                       http://books.google.com/books?id=ARw1AAAAMAAJ&oe=UTF-8
-Lccn:                         07007122
-
-GOOGLE
-
-This is a digital copy of a book that was preserved for generations on library
-shelves before it was carefully scanned by Google as part of a project to make
-the world's books discoverable online.  It has survived long enough for the
-copyright to expire and the book to enter the public domain. A public domain
-book is one that was never subject to copyright or whose legal copyright term
-has expired. Whether a book is in the public domain may vary country to
-country. Public domain books are our gateways to the past, representing a
-wealth of history, culture and knowledge that's often difficult to discover.
-Marks, notations and other maiginalia present in the original volume will
-appear in this file - a reminder of this book's long journey from the publisher
-to a library and finally to you. 
-
-USAGE GUIDELINES
-
-Google is proud to partner with libraries to digitize public domain materials
-and make them widely accessible. Public domain books belong to the public and
-we are merely their custodians. Nevertheless, this work is expensive, so in
-order to keep providing this resource, we have taken steps to prevent abuse
-by commercial parties, including placing technical restrictions on automated
-querying.  We also ask that you:
-
-+ Make non-commercial use of the files We designed Google Book Search for use
-by individuals, and we request that you use these files for personal,
-non-commercial purposes.
-
-+ Refrain from automated querying Do not send automated queries of any sort to
-Google's system: If you are conducting research on machine translation, optical
-character recognition or other areas where access to a large amount of text is
-helpful, please contact us. We encourage the use of public domain materials for
-these purposes and may be able to help.
-
-+ Maintain attribution the Google "watermark" you see on each file is essential
-for in forming people about this project and helping them find additional
-materials through Google Book Search. Please do not remove it.
-
-+ Keep it legal Whatever your use, remember that you are responsible for
-ensuring that what you are doing is legal. Do not assume that just because we
-believe a book is in the public domain for users in the United States, that the
-work is also in the public domain for users in other countries. Whether a book
-is still in copyright varies from country to country, and we can't offer
-guidance on whether any specific use of any specific book is allowed. Please do
-not assume that a book's appearance in Google Book Search means it can be used
-in any manner anywhere in the world. Copyright infringement liabilities can be
-quite severe. 
-
-
-ABOUT GOOGLE BOOK SEARCH
-
-Google's mission is to organize the world's information and to make it
-universally accessible and useful. Google Book Search helps readers discover
-the world's books while helping authors and publishers reach new audiences. You
-can search through the full text of this book on the web at
-http://books.google.com/
-
-[End Google's Notes]
-
-
 THE CHRONICLES OF BREAK O'DAY
 BY
 E. EVERETT HOWE
@@ -180,7 +62,7 @@ CHAPTER
   XXV.    Durgenson Demands his Money
   XXVI.   Ramoth Gilead
   XXVII.  Ruin
-  XXVIII. John hears an Account of his Adventure 
+  XXVIII. John hears an Account of his Adventure
   XXIX.   Among the Invalids
   XXX.    The Beginning of Mystery
   XXXI.   Awakening
@@ -418,7 +300,7 @@ cures cuts, bruises, sprains, wounds, incisions and all
 injuries to the flesh. It is also a sovereign remedy for
 asthma, bronchitis, tonsilitis, laryngitis and all throat
 diseases, besides being an excellent tonic for consumption,
-dyspepsia ---"
+dyspepsia --"
 
 "What is your panicky worth a bottle?" innocently
 asked Miss Warfle.
@@ -440,8 +322,8 @@ pretty sure to cure nothing."
 
 "I ain't so sure about the consumption and the throat
 diseases," said the agent reflectively. "I thought it
-would be good for them on account of its healing proper-
-ties, but it's sure business for bruises."
+would be good for them on account of its healing
+properties, but it's sure business for bruises."
 
 "Have you a good salve?" asked the major.
 
@@ -461,7 +343,7 @@ When the agent had sold a box of the salve he moved
 toward the back-door and said, "I guess I'll go down
 and try your men. Maybe some of them'll want to buy."
 
-"You better wait till noon," said Mrs. Grippin.  "Then
+"You better wait till noon," said Mrs. Grippin. "Then
 the men won't have to stop work."
 
 "They never mind that," said the agent." They was
@@ -675,8 +557,8 @@ schemes, more than half of which had been left unfinished.
 A strange looking wagon had in an unusual degree the
 merit of originality. Each wheel, six feet high, revolved
 on a peg set between two upright posts. These posts
-were connected at the top so that the vehicle had no axle-
-tree. Two boxes suspended from the posts, and about
+were connected at the top so that the vehicle had no
+axle-tree. Two boxes suspended from the posts, and about
 two and one half feet in height, were joined together by
 an attachment underneath.
 
@@ -926,7 +808,7 @@ heard of viscosity?"
 of solemnity into his voice," that I have a sister who
 does not know the meaning of viscosity. It is derived
 from the Latin viscum. Viscum, viscositas; French, viscosite;
-Provencal, viscositat; Spanish, viscosidad; Portuguese, vis---"
+Provencal, viscositat; Spanish, viscosidad; Portuguese, vis --"
 
 "'What do we care about your viscos and viscovuses?"
 retorted Mrs. Grippin. "When you talk common English,
@@ -1218,7 +1100,7 @@ retorted the housekeeper; "you, with your nonsense that
 nobody else can stand? I'd talk about hobbies."
 
 "No, no, Maria," mildly expostulated the major. "A
-Hobbist means---"
+Hobbist means --"
 
 "I don't care what it means," interrupted Mrs. Grippin.
 "James Ratke, if you don't go down there I won't get a
@@ -1238,8 +1120,8 @@ it had the effect of taking him far out of his intended
 course. Nor was he aware of the deviation until he was
 confronted by the thick growth of bushes, which, to enter,
 he had to part with his hands. Suspending temporarily
-his meditations, he came upon a path which ran trans-
-versely through the shrubs, and which crossed at right
+his meditations, he came upon a path which ran transversely
+through the shrubs, and which crossed at right
 angles the one which he had intended to follow.
 
 He proceeded along this path and stopped near a
@@ -1251,11 +1133,11 @@ he said slowly and emphatically,
 "Proposition I.: The will of man has the power of
 independent decision.
 
-"Proposition II. : All external forces acting upon the
+"Proposition II.: All external forces acting upon the
 will are persuasive and not coercive." Here the major
 paused and spatted his hands with great emphasis.
 
-"Proposition III. : Whenever in---"
+"Proposition III.: Whenever in --"
 
 There was a rustling in the bushes followed by a succession
 of very rapid and heavy blows from an ax. Going
@@ -1456,15 +1338,15 @@ postmark and read as follows:
 
     Washington, D. C, March 4, 187-
     Mr. J. Ratke,
-   
+
     Break o'Day, Mich.
     Dear Sir:-- As the commissioner expresses doubt concerning
     the practical value of your invention, I find it is difficult
     to obtain a patent. I must receive fifty dollars before I
     proceed further.
-   
+
     Respectfully yours,
-   
+
     F. B. Sackett.
 
 
@@ -1481,14 +1363,14 @@ The contents of the second letter are given below.
 
     Jackson, Mich., March 4, 187-.
     Mr. J. Ratke,
-   
+
     Break o'Day, Mich.
     Dear Sir: We spoke to Mr. Green about the matter which you
     mentioned. He says he cannot postpone the foreclosure of the
     mortgage a day.
-   
+
     Yours respectfully,
-   
+
     Collins & Joy.
 
 
@@ -1905,7 +1787,7 @@ obliged to retract his theories? And had not Socrates
 his Xantippe, the prototype of Mrs. Grippin?
 
 The church, which was of good size, considering its
-country location, stood on a slight elevation, about 
+country location, stood on a slight elevation, about
 three-fourths of a mile west of the Ratke dwelling. Between
 the edifices the ground curved and merged in a miniature
 valley which occupied most of the distance. Southwest
@@ -1964,8 +1846,8 @@ is the greatest curse which this community has ever seen.
 More, than beer, more than whisky, more than the horse-thieves,
 against whom so many anathemas have been breathed, cider
 is bringing its awful harvest of pain and crime. But in
-this congregation, --- for I see them now, ---
-are men in whose cellars are cider barrels, whose sons,
+this congregation, -- for I see them now, -- are
+men in whose cellars are cider barrels, whose sons,
 following their father's lead, descend the stairs, turn the
 faucet and change themselves into receptacles of the potion
 which would make fiends of angels. Ay, brethren, I
@@ -2357,7 +2239,7 @@ bear most of the weight of his body on his legs.
 "Won't you sing us a song, Mr. Wrengell?" said Nora
 with a giggle, which was echoed by the clerk.
 
-"I do not care to sing," answered Wrengell, now 
+"I do not care to sing," answered Wrengell, now
 comprehending her motive in enticing him to the parlor.
 
 "Oh, please, do sing us something sentimental," said
@@ -2492,7 +2374,7 @@ him, that it was visible to whomsoever he met, that it had
 been seen by the Ratkes, and that by them he was despised.
 
 Archer had been by common consent relegated to the
-farther corner of the room, and was there snoring 
+farther corner of the room, and was there snoring
 comfortably, and noisily. Wrengell, knowing that no common
 circumstance would awaken the slumberer, went to his
 bedside, and, taking down his violin, which hung over his
@@ -2676,7 +2558,7 @@ father cleared the place of the incumbrance in three
 years."
 
 "If I could get such a chance," said the major, "I
-would accept it. Of course it would be a risk. But, 
+would accept it. Of course it would be a risk. But,
 unless something is done, I am certain to lose everything.
 Times are hard, and nothing will sell now. Land would
 bring a very low price if it were put up at auction. In
@@ -2692,15 +2574,15 @@ it as easy as possible for you. You can take the one-man
 saw."
 
 After Montcalm's departure to the woods, Ratke seated
-himself on a log which was on the south side of the 
+himself on a log which was on the south side of the
 central barn. The sun, whose warming rays are most
 appreciated after a hard winter, beat down with just
 enough heat to make the position one of comfort. The major,
 enjoying the delightful temperature of the place, glanced
 upward to note the spot where the lines of heat struck the
 barn-boards and were reflected downward to him. He
-located the angle of reflection formed by that most pleas-
-ing ray which touched the back of his neck. It was above
+located the angle of reflection formed by that most pleasing
+ray which touched the back of his neck. It was above
 and at the right of a protruding nail and under and to the
 left of an oval knot. This done, he traced out the normal
 which with the perpendicular completed the plane of
@@ -2810,7 +2692,7 @@ and twenty-three and the north half of section eleven to
 Hiram B. Durgenson, his heirs and assigns forever. The
 major's hand moved unwillingly as he took the pen. The
 word "forever" in capitals looked to him unnecessarily
-large. He had hitherto refrained from placing an 
+large. He had hitherto refrained from placing an
 incumbrance on the Barton hundred and sixty. But after the
 deeding away of the larger part of his property, he went
 to Break o'Day and, that he might invest in the Guerrero
@@ -2903,7 +2785,7 @@ intelligence?"
 
 "Assuredly", replied the professor.
 
-"And intelligence is divided into two kinds---conscious
+"And intelligence is divided into two kinds --conscious
 and unconscious?"
 
 "That is the theory of the leading men of to-day, sir,"
@@ -2919,7 +2801,7 @@ The major congratulated himself that the roast pig was
 taking effect.
 
 "Which requires the higher degree of intelligence," he
-asked---"the creation of the simple or of the complex?"
+asked, "the creation of the simple or of the complex?"
 
 "I am not partial to trivialities," angrily replied the
 professor. "But, since you wish an answer to every petty
@@ -2999,9 +2881,9 @@ mind."
 you might well be proud of your intellect. Then you
 could measure out the exact quantity of each ingredient
 necessary to your development, and, at the same time,
-tell each rootlet what kind of nutriment it should con-
-tribute to the general supply. Had you in weighing let the
-balance slip a notch, you would have made an elm instead
+tell each rootlet what kind of nutriment it should
+contribute to the general supply. Had you in weighing let
+the balance slip a notch, you would have made an elm instead
 of an oak. Then you had knowledge and ingenuity such
 as is possessed by no human chemist or inventor. Now,
 
@@ -3246,7 +3128,7 @@ were by a few clubs sent yelping back to the residence of
 Takum.
 
 "Nice help the boss picked out for me," commented
-Montcalm---"a fool and his dogs."
+Montcalm --"a fool and his dogs."
 
 "I'm a-goin' back," said Philetus, "I ain't a-goin' to
 stay here to be abused."
@@ -3314,9 +3196,9 @@ the beast, as he stepped about trying to keep his feet
 from the clumsy coverings by which they were being
 cumbered.
 
-Montcalm ordered Takum to stay close to the corn-
-crib, which was between the barns and the house, while he
-made a second tour about the latter building.
+Montcalm ordered Takum to stay close to the
+corn-crib, which was between the barns and the house,
+while he made a second tour about the latter building.
 
 "Everything is quiet," he remarked, as he returned to
 his waiting ally. "Both of us must get that horse by the
@@ -3404,8 +3286,8 @@ at once."
 
 Philetus was by the protection of a not unfamiliar
 retreat, for it was the hen-house which he had so often
-visited. His instinct of thieving --- for the propensity
-had become an instinct --- was stronger than his fear of
+visited. His instinct of thieving -- for the propensity
+had become an instinct -- was stronger than his fear of
 Montcalm, especially in the absence of the latter. In a
 very short time he had one of Sparks' matchless Cochins
 stuffed inside his jacket. His intrusion aroused a cackling
@@ -3474,7 +3356,7 @@ force. "I haven't stole any horse."
 
 "Yes you haf stole a horse," affirmed Wingscheut,
 struggling to free his hands, "te pest horse in te whole
-country. I'll cif you a face vat von't look coot in 
+country. I'll cif you a face vat von't look coot in
 Suntay-school. Let co my hant, I tell you. Can't you mint
 notting? Come kill te tam horse-tief," he added, as Sparks
 and his boy drew near.
@@ -4134,7 +4016,7 @@ A cord bedstead gave forth a dolorous groaning, and
 directly after the face of Ab appeared at a chamber
 window,
 
-"Now," said Wallace, "get out of here, or I'll let 
+"Now," said Wallace, "get out of here, or I'll let
 daylight through some of you,"
 
 This injudicious threat brought a shower of stones,
@@ -4393,7 +4275,7 @@ yip out o' me, only Jimmy an' ole John an' you."
 After satisfying himself that his threats and the fear of
 popular vengeance had impressed Takum with the
 necessity of caution, Montcalm went to his post, which
-was east of the swamp.  He held a short conversation with
+was east of the swamp. He held a short conversation with
 each of several neighbors who passed him. Leaning over
 the broken-down gate in front of the unattractive house,
 he talked a few minutes with Wallace, who complained of
@@ -4536,7 +4418,7 @@ pow-wow."
 "Yes, Pa," cried Julia. "And I want some dresses
 and rings, and you promised me a breastpin."
 
-"Oh, yes, you want," grumbled Wallace --- "you want a
+"Oh, yes, you want," grumbled Wallace -- "you want a
 good deal, but you won't get it. Montcalm, hadn't you
 better pay me for them jugs of cider that you had me
 take to Jimmy and old John? That's worth thirty cents
@@ -4573,7 +4455,7 @@ results, writhed from her grasp and fled from the house.
 
 "Yes, I certainly shall," answered Montcalm.
 
-"When?" asked Julia --- "next Sunday night? "
+"When?" asked Julia -- "next Sunday night? "
 
 "I cannot promise," said Montcalm. "I will come as
 soon as possible."
@@ -4581,7 +4463,7 @@ soon as possible."
 "If you don't come then, there'll be a racket," said
 Julia; and with this warning she shut the door.
 
-"That'll make a fine woman for somebody," said 
+"That'll make a fine woman for somebody," said
 Wallace. "Wouldn't she be the boss for a night-raider?"
 
 "Perhaps," said Montcalm, "if he wished to get married.
@@ -4633,7 +4515,7 @@ Billy and Madge T.
 The horses, apparently willing to leave the loneliness of
 their retreat for a common equine habitation, gave little
 trouble until they came to the creek, where they snorted
-and stood with their feet braced, yielding only to the 
+and stood with their feet braced, yielding only to the
 persuasion of some long whips.
 
 The creek crossed, they were led out, both at once, by
@@ -4662,7 +4544,7 @@ and the guards are the only ones in the neighborhood
 who are astir, but it is best to use caution."
 
 Had Montcalm acquainted the Wallaces with the facts
-communicated by Takum he might have been in his 
+communicated by Takum he might have been in his
 extremity deserted by his help, whose selfishness would
 have allowed no consideration for him to endanger their safety
 or that of their property. For this reason he encouraged
@@ -4686,7 +4568,7 @@ fastened an end of a short rope to either side of a car
 which supported the stack. Then he joined the short
 ropes to a longer one, which he connected with the chain
 by a hook, and next he set the crank on an iron bar.
-Montcalm and Wallace turned the handle of this 
+Montcalm and Wallace turned the handle of this
 contrivance, when the stack trundled slowly forward and
 stopped within a few feet of the post.
 
@@ -4788,7 +4670,7 @@ family dwelling, his attention was arrested by the sound
 of voices and laughter, and as he stopped, he overheard
 the words of Daggett, who was saying:
 
-"Didn't we have a time of it waking him, though? I 
+"Didn't we have a time of it waking him, though? I
 poked him with a pole two minutes before he give a
 grunt. But he flew around lively enough after he did
 get up."
@@ -4806,7 +4688,7 @@ out boldly for the tamaracks. But their ardor, as well as
 their persons, was dampened by the water, which for the
 greater part of the year encircled the great swamp, and
 against which, at that time, the highest rubber boots were
-an imperfect protection. The water poured over the 
+an imperfect protection. The water poured over the
 boot-tops of the men. The brush scratched the bare legs of
 the boys, who had rolled up their trousers. All were
 annoyed by the bushes, which in many places were so thick
@@ -4936,7 +4818,7 @@ That line of woods is now in its richest beauty. There
 can be nothing more picturesque than the spot where
 that dark green tree is set diagonally in front of the less
 deeply tinted background. As its fellows advance to the
-same stage of development, the view will grow less 
+same stage of development, the view will grow less
 attractive. The reign of this scene around us over human
 sympathies is transitory, for those white petals are now
 falling. In a few days the trees will be clad in simple
@@ -5011,7 +4893,7 @@ he had ever known. He was the escort of the most
 cultured, the most esteemed lady of that community.
 Samson-like, he was rending the bonds of his evil fortune
 and bearing away the Gazan gate which shut him within the
-city of disrepute. From the pit of degradation he raised 
+city of disrepute. From the pit of degradation he raised
 his head above its mouth and viewed the hills of
 respectability, the borders of which he hoped soon to cross.
 He could think of nothing to say, and, indeed, he was too
@@ -5055,13 +4937,13 @@ stanzas which Manie read:
     Where shade meets sun, where breezes pant,
         Where plants their fellows' secret know,
         And laugh with joy and sympathize with woe.
-    
+
     "Rude were the hands which bore us hence
         From that loved spot where we were born.
     The lofty tamarack laments,
         The grieving poplar quakes, forlorn,
         The grass blade bows its head to weep at morn
-        
+
     "Death to the exiled flowers must steal.
         Oh, let us not be spurned, but given
     Cold water and this boon to feel,
@@ -5177,7 +5059,7 @@ the major that I can work for him no longer."
 get the store started." So saying, Nora sat in his lap and
 gave his collar a playful shake.
 
-Montcalm looked down pityingly into her face. He had 
+Montcalm looked down pityingly into her face. He had
 not at first meant to win her affections. Feeling his
 power, he had determined to test it, and its exercise
 had made her his slave. The lies which he had told her
@@ -5205,7 +5087,7 @@ Trace," she said, coming from her bedroom with some
 papers. "They are for $500. Take them now. I won't
 want them. Aunt Emma gave me one and Uncle Si the
 other. You see I can help, and I feel just like
-helping to get along." 
+helping to get along."
 
 "No, no," expostulated Montcalm, thoroughly despising
 his own deceit. "I will not. I hope myself to earn the
@@ -5380,8 +5262,8 @@ treating him with discourtesy."
 "You can't run me, James Ratke," retorted the angry
 woman, "if you do run the rest of the town. 'Tend to
 your own business, and I'll 'tend to mine. You bought a
-cow of him. Si Green, when you couldn't get trusted 
-anywhere else. You got money to help you with the mortgage 
+cow of him. Si Green, when you couldn't get trusted
+anywhere else. You got money to help you with the mortgage
 on your place, and you cheated him out of it. You got
 wheat of him when your family was sick, and you said
 they'd starve if they didn't have help. Do you remember
@@ -5472,7 +5354,7 @@ and old, the clapboards were loose, and some of the bricks
 had fallen from one chimney. It consisted of an upright
 and a long, low wing which lapped beyond the taller part
 of the dwelling. Montcalm was before the overlapping
-part and close to the outside cellar stairs. On the 
+part and close to the outside cellar stairs. On the
 back-stoop were a swill-barrel, three swill-pails, some
 hoes and rakes and a rickety table made of a long box,
 on which sat pans and kettles. Whatever was useful merely
@@ -5493,7 +5375,7 @@ from the corresponding socket in which it rested. The
 door, which opened outwardly, he blocked with a stone,
 lest it should swing back and cause a strain on some
 attachment which he had not yet discovered. He bored a
-second and a third hole and cut out the spaces which 
+second and a third hole and cut out the spaces which
 intervened between them. Feeling through the passage
 thus formed, his hand came in contact with a string which
 he dared not critically examine. By means of the auger and
@@ -5514,11 +5396,11 @@ boards which had been cut from the ends of the longer
 ones were on the upper of these shelves. Montcalm's
 curiosity was excited by a barrel, an end of which a few
 feet from the milk-shelves protruded some inches above
-the surface of the ground. On examination it was found 
+the surface of the ground. On examination it was found
 to be the curbing of a well. When Green was poor, his
 ideas of economy told him that he could dig a well with
 less labor from the bottom of the pit under his house
-than from the surface of the ground; and, as he 
+than from the surface of the ground; and, as he
 prospered, he provided water for his horses and cattle
 at the barn, but that necessity of his family was still
 carried from the cellar.
@@ -5660,7 +5542,7 @@ is this?" he demanded, as his bare foot struck the plaster
 which had fallen in the main part of the chamber. "What
 fool's caper is this?"
 
-He started suddenly backward as Montcalm, stepping 
+He started suddenly backward as Montcalm, stepping
 from the door of the bedroom, presented a pistol at his
 head.
 
@@ -5722,7 +5604,7 @@ mite, had repeatedly outraged his conscience.
 
 Catching a loose slab, he dealt a sudden blow on the
 head to Montcalm, who, staggering back, caught his legs
-on the saw-horse and fell. Green followed his advantage. 
+on the saw-horse and fell. Green followed his advantage.
 He struck again with the slab, barely missing his aim;
 but as his weapon was clutched by the unknown burglar,
 he precipitated himself upon him. Montcalm whose
@@ -5734,7 +5616,7 @@ giving a yell of recognition and pressing with renewed
 vigor to the attack. Having a poor hold of his opponent,
 and being in every way at a disadvantage, he felt his
 strength begin to fail. As he was crowded close to the
-wall, his hand accidentally came in contact with the 
+wall, his hand accidentally came in contact with the
 broad-ax. In despair he seized it and struck. The weapon
 seemed hardly to touch the man on whom it was turned,
 yet that touch was sufficient to send him toppling over,
@@ -5743,14 +5625,14 @@ extinguishing the lantern in his fall.
 The cellar was in almost total darkness. The scanty
 light which came through the small windows, of which one
 was on the north side and one on the west, was lessened
-by screens and thick masses of overhanging vines, 
+by screens and thick masses of overhanging vines,
 Montcalm threw aside the ax, groped hurriedly and found the
 pocket-book, with the intention of escaping before Green
 arose. But, as the seconds passed and there was no
 perceptible movement on the part of his late adversary, he
 felt that he need not anticipate immediate pursuit. He
 wondered that the stroke, which had but grazed the head
-of his opponent, should produce unconsciousness. An 
+of his opponent, should produce unconsciousness. An
 unconquerable desire seized him to learn what had been
 the result of the blow which he had delivered. The
 knowledge, however, could be at once gained only by an
@@ -5800,7 +5682,7 @@ on which he was gazing had been the habitation of a living
 intellect, that amorphous mass of brain had been performing
 its normal functions; along those disfigured ridges
 had been passing thoughts, which, perhaps, related to self
-and self-aggrandizement, but which were those of a 
+and self-aggrandizement, but which were those of a
 fellow-being. What though the reflections had been of a mean
 and penurious character? What though they had been on
 money and usury, on the oppression of the poor? The
@@ -5869,7 +5751,7 @@ up his bundle, which, as may be supposed, was indifferently
 arranged, he trudged slowly through the forest. And
 now, for the first time, he experienced a fear, which
 approached certainty, that his guilt would be detected.
-It was not the abject terror of the coward. It was the 
+It was not the abject terror of the coward. It was the
 conviction of a brave man who was willing to struggle
 when there was hope, but who believed that he was
 menaced by odds which it was useless to resist.
@@ -5962,7 +5844,7 @@ say, meridian of vigor." At this point the physician took
 an uncertain step and waved his fist in the air.
 
 The major, whose own pomposity of language was unconsciously
-caricatured by Dr. Rorus, did not fancy listening 
+caricatured by Dr. Rorus, did not fancy listening
 to the drunken harangue, but he was obliged either
 to tolerate it or to beat a retreat. His friends had noticed
 that immediately after he had met the doctor he was less
@@ -6520,7 +6402,7 @@ hideously distorted. As the chin dropped in an abnormal
 distension, the mouth opened and seemed about to close
 on Montcalm, who inert and helpless, dreaded the first
 touch of the jagged lips. From the cavernous throat deformed
-beings beckoned to him to join them. What heightened 
+beings beckoned to him to join them. What heightened
 his fear was a mad impulse to precipitate himself
 into the yawning chasm, an act which he knew would
 be followed by the most appalling consequences. Strenuously
@@ -6656,7 +6538,7 @@ he had plunged his bands into the hay, they crowded under
 the hat and still tormented him. He believed that
 henceforth for him there was no quiet; that all nature had
 conspired to make him miserable.
-He heard the me  chatting in the stable and about the
+He heard the me chatting in the stable and about the
 barnyard. Not wishing to be discovered in the loft, he
 climbed down and was passing out, when he met Archer,
 whose inexpressive face reminded him of the shot which
@@ -6689,7 +6571,7 @@ Barton hundred and sixty. What would you do?"
 "Do not pay him one cent," replied Montcalm, with an
 energy which he had not exhibited for days. "He wants
 to get your entire property. Let him have this farm, but
-keep---
+keep ----
 
 "What!" exclaimed the major, "let the place go without
 an attempt to save it? Do you know how I have become
@@ -7002,17 +6884,18 @@ once for that of an old lady.
     My Son Traceworth:
 
     It has been a long time since I have heard from you. The last
-    letter you sent was when you gave me that fifty dollars. Now that
-    I am alone, I don't know what I should do if Cod hadn't given me a
-    good boy. You must have changed some since I saw you. That
-    was five years ago. You used to write once a week regularly. Now
-    you don't let me hear from you oftener than once a month. It seems
-    so different now from what it did when we were rich. But it was all
-    for the best. I have provisions enough. All I need now is to hear
-    from my boy. I pray for you every day, Traceworth, two or three
-    times a day. You know there was a spell when you didn't keep
-    good company. Remember what I have told you and keep away
-    from bad men.
+    letter you sent was when you gave me that fifty dollars. Now
+    that I am alone, I don't know what I should do if Cod hadn't
+    given me a good boy. You must have changed some since I saw
+    you. That was five years ago. You used to write once a week
+    regularly. Now you don't let me hear from you oftener than
+    once a month. It seems so different now from what it did
+    when we were rich. But it was all for the best. I have
+    provisions enough. All I need now is to
+    hear from my boy. I pray for you every day, Traceworth,
+    two or three times a day. You know there was a spell when
+    you didn't keep good company. Remember what I have told you
+    and keep away from bad men.
 
     Mother.
 
@@ -7419,8 +7302,8 @@ principal room, which was at once kitchen and parlor,
 was a safe with scalloped newspapers placed over the top
 and hung on the doors. Near the safe was a table on
 which rested some curious stones and a few books. The
-walls were covered with paper, and from them were sus-
-pended pictures of little art, too long drawn to be called
+walls were covered with paper, and from them were
+suspended pictures of little art, too long drawn to be called
 new, and too modern to be ranked as antiquities. That
 a person of Christian principles had assisted in furnishing
 the house was indicated by two Bibles, some Sabbath
@@ -7664,7 +7547,7 @@ of him."
 
 "Let 'em keep him to home, then," gruffly returned
 Alf, passing out of the house. "There'll be a howlin'
-out here all night. I won't lose my rest for no cat." 
+out here all night. I won't lose my rest for no cat."
 
 In a few minutes he returned, disappointed, from his
 hunt. Resuming his chair by the table, he sat with his
@@ -8914,7 +8797,7 @@ Wrengell should use such secrecy in his approach.
 drunken men! They think I am a horse-thief! You can
 hear them in the woods yonder."
 
-"They are coming," said Mrs. Boyle, in a frenzied 
+"They are coming," said Mrs. Boyle, in a frenzied
 manner. "I don't know where you can hide. What shall we
 do? Oh, dear! What shall we do?"
 
@@ -8953,7 +8836,7 @@ were drenched with perspiration.
 
 "What kind of looking man?" asked Mrs. Boyle.
 
-"I don't care a --- what kind of a lookin' feller,"
+"I don't care a -- what kind of a lookin' feller,"
 returned Alf. "Have you seen anybody go by?"
 
 "No, I haven't," said Mrs. Boyle.
@@ -9065,7 +8948,7 @@ asked John.
 "No," returned Mrs. Boyle, "you never stole horses.
 As soon as you feel strong enough, you must tell me how
 they came to accuse you of any such thing. They are
-almost all miserable men that I saw go by, --- I mean the
+almost all miserable men that I saw go by, -- I mean the
 ones that I am acquainted with. I knew five or six of
 them, and only two are what people call good citizens."
 
@@ -9151,7 +9034,7 @@ adverse to using the ax and the brush-hook.
 The window where Wrengell was seated looked out on
 a fine stretch of wood. The trees, which were mostly of
 oak, were clad in the full magnificence of summer. An
-unusual number of them had large, straight trunks, 
+unusual number of them had large, straight trunks,
 running many feet high without a limb and surmounted by
 well-formed, wide-spreading tops.
 
@@ -9187,8 +9070,8 @@ against the tree. He continued the blows until the last
 shudder had passed through the inanimate frame.
 
 John, looking through a knot-hole in the side of the
-house, feared that Alf might see the open window and mis-
-trust the presence of a stranger. He knew by the brutality
+house, feared that Alf might see the open window and mistrust
+the presence of a stranger. He knew by the brutality
 which he had so often witnessed that the ruffian, if
 he could avoid the penalties of the law, would delight in
 taking his life. After Alf had disappeared from his view,
@@ -9627,7 +9510,7 @@ material for a grand epic."
 
 "Your guess is incorrect," said Ratke. "The title of
 the work which I am writing is 'Nature Concordia
-Philospiæ  Animi.' In two volumes I am undertaking to
+Philospiæ Animi.' In two volumes I am undertaking to
 prove that every phenomenon of nature has a corresponding
 one in the human mind or soul. Volume one treats
 of the relativity of physics and metaphysics, volume two,
@@ -9716,8 +9599,8 @@ them until my sister-in-law found an item in a paper
 which stated that they had been killed two months previously
 in a railroad accident at Chicago. An enterprising reporter
 had had his attention riveted by the names of
-the victims, as they appeared in an old paper and had dis-
-covered that they were the same which had been borne
+the victims, as they appeared in an old paper and had
+discovered that they were the same which had been borne
 by my son-in-law and daughter. The surmise of the reporter
 was correct. I took up the bodies, which are now
 in the Lansing cemetery. Never measure happiness by
@@ -11123,8 +11006,8 @@ wasn't for to-morrow. But this working as tight as you
 can jump and then being up all night, and then keeping
 right on the next day, it's too much."
 
-"Oh, as to that," said Ratke, "you can sleep twenty-
-four hours, commencing at six o'clock, if you wish."
+"Oh, as to that," said Ratke, "you can sleep twenty-four
+hours, commencing at six o'clock, if you wish."
 
 "Seeing it's an emergency, I'll go," said Archer. "Of
 course, I'm willing to make some sacrifice, Major,"
@@ -11162,8 +11045,8 @@ There was no danger, he said, but seeing Archer was to
 watch, he should take every precaution against a robbery.
 He should extinguish the light, he should barricade every
 door leading to the room. Then with the money and a
-revolver he should get into a dark corner. The north-
-east was the best one.
+revolver he should get into a dark corner. The
+north-east was the best one.
 
 "This reminds me of an incident which happened in
 Wisconsin Territory," said Ratke, "when we were chasing
@@ -11705,7 +11588,7 @@ a liar! I won't take that from any man!"
 "You are a liar!" said Ratke, advancing and peering
 into the face of the cattle-buyer. "This is my place for
 to-day. Now go, or I will kick you off the premises! And
-do not say one word in leaving! Not one word," he 
+do not say one word in leaving! Not one word," he
 continued, as Durgenson's lips moved.
 
 Durgenson turned and moved slowly toward the road.
@@ -12828,10 +12711,10 @@ which John had warn when he attended district school.
 He well remembered that garment, which had awakened
 so much ridicule. The boys had jerked him down by it.
 Once they had stripped it from him, torn it and almost
-buried it in the dirt, in which it had been hardly distinguishable.
-Some of them had held him so that he could not
-see where they put it and it had taken him a long lime to
-find it. Ever since then he had hated sand-colored coats.
+buried it in the dirt, in which it had been hardly
+distinguishable. Some of them had held him so that he could
+not see where they put it and it had taken him a long lime
+to find it. Ever since then he had hated sand-colored coats.
 
 His history was being repeated. He was leaving behind
 him shameful associations, ignorance was loosing its
@@ -13404,10 +13287,10 @@ at Lansing.
 
 The surroundings of the depot were far from pleasing.
 Before it was a willow swamp, which long lumber piles
-and a manufactory made of brick, which a high, smoke-
-blackened chimney, did not hide. The richest part of the
-city, whose roofs and steeples alone were visible, lay to
-the westward.
+and a manufactory made of brick, which a high,
+smoke-blackened chimney, did not hide. The richest part
+of the city, whose roofs and steeples alone were visible,
+lay to the westward.
 
 Small groups of citizens stood in front of the
 passenger-house. A pair of trucks with "Phoenix Mills" labeled
@@ -13546,7 +13429,7 @@ don't believe I want none. Times is hard with me."
 "You better take a bottle. Mister," urged Panicky.
 
 "You'll never regret it. I knew a man out in Oakland
-County-----"
+County ----"
 
 "I don't want none," said the old man with decision.
 
@@ -13698,7 +13581,7 @@ have you?"
 
 "Certainly." responded Durgenson. "But I'm awful
 busy just now. You go to number one hundred and nine
------- Street. Tell the man you want to stay all night. I'll
+ ---- Street. Tell the man you want to stay all night. I'll
 be up there in from one to three hours. Don't go out in the
 street, because I'm in a hurry and want to find you there
 when I come. I mean business. I'll make your fortune."
@@ -13963,9 +13846,9 @@ work in the family of Osborne.
 The habits of Ratke had changed with the circumstances
 which surrounded him. He was silent, but apparently
 not thoughtful. No longer in his moments of leisure did
-he sit with his left leg thrown over the arm of his rocking-chair,
-his chin resting on his hand, and his elbow on his
-knee. No longer did he speculate or philosophize. he
+he sit with his left leg thrown over the arm of his
+rocking-chair, his chin resting on his hand, and his elbow
+on his knee. No longer did he speculate or philosophize. he
 seemed to be again sinking, with his grief forgotten, into
 a gradual and peaceful decline. When he talked, which
 was seldom, it was concerning business matters; and his
@@ -14027,7 +13910,7 @@ shouted, "why don't you go up and change with him?"
 "I don't have to," replied Sparks.
 
 "Come down here, William Henry Harrison," called
-Ratke, " I will change with you. You can hold bags."
+Ratke, "I will change with you. You can hold bags."
 
 The major took the position which had been occupied
 by the half-wit, who slid down the stack and was buried
@@ -14072,7 +13955,7 @@ his pitchfork on his shoulder he went slowly home. He
 was hurt most by the grim satisfaction with which Sparks
 spoke of his downfall. On his farm, surrounded by his
 books and his inventions, he could smile at riddles;
-but now, removed from his defenses, he could not 
+but now, removed from his defenses, he could not
 endure it.
 
 Mrs. Gnppin had gone to visit Mrs. Boyle, with whom
@@ -14084,7 +13967,7 @@ from his hair, a constable came to serve a summons on
 him in behalf of the Empire Machine Company.
 
 "The completion of disgrace," said Ratke, after the
-man had gone. " I cannot pay them. Judgment will be
+man had gone. "I cannot pay them. Judgment will be
 rendered against me, and I must have it thrown in my
 teeth that my promises are lies. How much more! Oh,
 God, how much more can I endure!"
@@ -14238,7 +14121,7 @@ an old harp which was once an instrument of melody, but
 which now yields the harshest of sounds. Mirth, pleasure,
 rest, they are for me neither now nor in eternity!"
 
-"You have no reason to be so hopeless," said Manie. 
+"You have no reason to be so hopeless," said Manie.
 "God has promised to help those who trust in Him.
 'Whoso hearkeneth unto Me shall dwell safely and shall
 be quiet from fear of evil.'
@@ -14473,7 +14356,7 @@ with newspaper clippings, which were mostly political
 articles or items concerning distinguished men. On this
 side of the apartment was a secretary divided into small
 drawers, some of whose labels are here quoted: "War
-Measures," "Reconstruction," " Currency."
+Measures," "Reconstruction," "Currency."
 
 A step close to the door and a suspension of the sound
 notified John that some person was near him.
@@ -14529,7 +14412,7 @@ Baldwin.
 
 "He said he did," returned John. "He said he knew
 something to my advantage with he wished to tell me.
-He instructed me to go to No. 109 ----- Street, where we
+He instructed me to go to No. 109 ---- Street, where we
 would hold a consultation."
 
 "He wanted to get you away," said Mrs. Baldwin. "I
@@ -14755,7 +14638,7 @@ of the Suebi, incidents to which historians have never
 referred."
 
 "Here is a violin," said Mrs. Baldwin, as she
-approached with the instrument which she named. " lay
+approached with the instrument which she named. "Play
 for your grandfather."
 
 When John's music had ceased, Mallard said, "I hear
@@ -14797,10 +14680,10 @@ Martha, there are feathers in this bed, for I smell them."
 not. You are lying on a mattress."
 
 "That is not what I meant," said the Senator, "there
-are chickens, live chickens in this bed.  There! See
+are chickens, live chickens in this bed. There! See
 that one running to the foot."
 
-"I will drive them out," said Mrs. Baldwin, who 
+"I will drive them out," said Mrs. Baldwin, who
 disappeared through the door and speedily returned with a
 broom. "Shoo, shoo," she cried, striking the bed vigorously
 with the household utensil.
@@ -14996,7 +14879,7 @@ will be robbing us of our cook-stove and our flour. How
 did they happen to live here with you?"
 
 "They came soon after your grandfather was hurt,"
-said Mrs. Baldwin. " They said they wanted to help take
+said Mrs. Baldwin. "They said they wanted to help take
 care of him. I knew they were looking after the property
 they expected to get. George was not in his right mind,
 and I could not turn them out, for Mrs. Durgenson was
@@ -15136,7 +15019,7 @@ stole a horse and got chased out of Break o'Day. He
 come to see me once. I told him to keep right away, for
 I wouldn't have anything to do with him, -- the scurf o'
 the earth. I'd like to claw him."
-"I don't believe it," returned Ellen. " He wouldn't
+"I don't believe it," returned Ellen. "He wouldn't
 look at you, nor the likes of you, you great freckled thing.
 You've stole everything you could get your hands on, and
 I know you'd lie, too."
@@ -15259,10 +15142,10 @@ colic."
 
 "I don't just want him to die," said Mrs. Durgenson.
 
-"No, nor I," said Durgenson, " but, if he does, we can't
+"No, nor I," said Durgenson, "but, if he does, we can't
 help it. We didn't want your Uncle George to die. He
-did, though, and we wouldn't have any objection to tak-
-ing the property. Our chances are a good deal better if
+did, though, and we wouldn't have any objection to taking
+the property. Our chances are a good deal better if
 we can stay right here. So, you see, we better not quarrel
 with him, not stir him up to push his claim very fast."
 
@@ -15406,7 +15289,7 @@ on."
 time for the train. Get on your hat now."
 
 "Oh, don't take him! Don't take my Hiram!" pleaded
-Mrs. Durgenson, throwing her arms about her husband. " I
+Mrs. Durgenson, throwing her arms about her husband. "I
 can't live without him."
 
 "Oh, yes, you can," said the officer, motioning Durgenson
@@ -15533,7 +15416,7 @@ observing the pedestrian.
 "You are just the man I want to see, Major," said
 Panicky as Ratke stopped. "No, drive right along, I'll
 climb in behind. Why, Lehmann," he exclaimed, seating
-himself on the end-board, " you're out here, are you?
+himself on the end-board, "you're out here, are you?
 You can't tell who's who when you're ahead of this kind
 of a wagon. I never saw one like it before. What kind
 of a thing is it?"
@@ -15655,9 +15538,9 @@ the shriveled and blackened branches of which were
 mournful reminders of the once thrifty grove. Those
 nearest the house were limbless. Those farther on had
 dusky, bare arms. Still nearer the road were the leaves
-which had been left and which varied in color from red-
-dish-brown to green, according to their distance from the
-flames by which they had been scorched. Through the
+which had been left and which varied in color from
+reddish-brown to green, according to their distance from
+the flames by which they had been scorched. Through the
 desolation the house showed with a distinctness, which
 brought vividly to the minds of those who had frequented
 the place the catastrophe so destructive to its luxuriant
@@ -15998,7 +15881,7 @@ reasonable chance to win."
 "So you call those visits a courtship, do you?" asked
 Manie, with a smile which the darkness concealed, though
 it could not hide the raillery expressed in her voice and
-words. " Your main care seemed to be to keep me from
+words. "Your main care seemed to be to keep me from
 knowing your real sentiments, but I readily guessed them
 from the first in spite of all your precautions."
 
@@ -16063,3 +15946,33 @@ Now, Manie, you must not dispute me this time.
 I do not wish you to prove that I have had no enjoyment."
 
 THE END.
+
+[Transcribers's Notes]
+
+This work was scanned and processed with optical character
+recognition (OCR) by Google. However, there was much to
+fix before it could be a proper e-book. For instance, stray
+characters, incorrect characters, hyphens to be removed, entire
+pages missing or gibberish. This repair work was completed and
+the book released through the Gutenberg Project by Nathan
+Hartley. Nathan performed this work in honor of his
+Great-Great-Great-Grandfather George Washington Holland Jr,
+from whom these stories are believed to have originated.
+
+From "An Account of Ingham County From Its Organization"
+by Frank Turner, George Fuller and Michigan Pioneer and
+Historical Society.
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+"G. W. Holland was historian and poet laureate of Bunkerhill and
+other townships where he resided for forty years. After 1876 he
+became the regular correspondent of the Ingham County Democrat
+and News, the Leslie Local, Stockbridge Sun and Lansing Sentinel.
+He was justice of the peace for twenty-two years, so could write
+from his court docket all kinds of stories. His pen name was
+"Rough and Ready," and he edited a set of stories about White
+Oak and Leroy townships, "Chronicles of Break o'Day." These
+were revised and made into a book by E. Everett Howe that had
+quite a sale. Four editions were published by Robert Smith
+Printing company."
+
+[End Transcribers's Notes]
