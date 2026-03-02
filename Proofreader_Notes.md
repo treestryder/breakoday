@@ -10,7 +10,7 @@ Clearance Key: 20130301194840howe
 Scans archive: https://archive.org/details/chroniclesbreak00howegoog
 Credit: Nathan Hartley from scans obtained at the Internet Archive
 Notes to Whitewashers: For Al Haines attention
-eBookmaker output: https://ebookmaker.pglaf.org/cache/20260228183653/output.txt
+eBookmaker output: https://ebookmaker.pglaf.org/cache/20260228190501/output.txt
 
 
 
