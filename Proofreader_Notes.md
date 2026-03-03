@@ -17,6 +17,8 @@ eBookmaker output: https://ebookmaker.pglaf.org/cache/20260228190501/output.txt
 ## Scanned Book
 * https://www.google.com/books/edition/The_Chronicles_of_Break_O_Day/ARw1AAAAMAAJ?hl=en
 * https://archive.org/details/chroniclesbreak00howegoog
+* Original Text: https://archive.org/stream/chroniclesbreak00howegoog/chroniclesbreak00howegoog_djvu.txt
+* Searchable scan: https://www.google.com/books/edition/The_Chronicles_of_Break_O_Day/ARw1AAAAMAAJ?hl=en&kptab=getbook&gbpv=1
 
 ## CHAPTERS
 
@@ -266,3 +268,44 @@ With:
 * _xx spaced punctuation
 * _xx inconsistent emdashes (you've used a mix of two and three hyphens.  PG's standard is two for a normal emdash; four for a long-emdash).
 * _ Resubmit, mentioning in the upload form's Notes to Whitewashers field that it's for Al Haines attention.
+
+
+
+C:\Users\Natha\src\breakoday\book\The Chronicles Of Break O'day.txt
+  37,1: CHAPTER
+  76,1: CHAPTER I.
+  496,1: CHAPTER II.
+  825,1: CHAPTER III.
+  1323,1: CHAPTER IV.
+  1764,1: CHAPTER V.
+  2416,1: CHAPTER VI.
+  2960,1: CHAPTER VII.
+  3723,1: CHAPTER VIII.
+  4132,1: CHAPTER IX.
+  4709,1: CHAPTER X.
+  4952,1: CHAPTER XI.
+  5317,1: CHAPTER XII.
+  5818,1: CHAPTER XIII.
+  6331,1: CHAPTER XIV.
+  6907,1: CHAPTER XV.
+  7197,1: CHAPTER XVI.
+  7633,1: CHAPTER XVII.
+  7985,1: CHAPTER XVIII.
+  8384,1: CHAPTER XIX.
+  8803,1: CHAPTER XX.
+  9207,1: CHAPTER XXI.
+  9780,1: CHAPTER XXII.
+  10346,1: CHAPTER XXIII.
+  10795,1: CHAPTER XXIV.
+  11303,1: CHAPTER XXV.
+  11721,1: CHAPTER XXVI.
+  11864,1: CHAPTER XXVII.
+  12291,1: CHAPTER XXVIII.
+  12568,1: CHAPTER XXIX.
+  12976,1: CHAPTER XXX.
+  13640,1: CHAPTER XXXI.
+  14245,1: CHAPTER XXXII.
+  14769,1: CHAPTER XXXIII.
+  15318,1: CHAPTER XXXIV.
+  15724,1: CHAPTER XXXV.
+  15800,1: CHAPTER XXXVI.
