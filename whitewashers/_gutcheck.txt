@@ -79,94 +79,124 @@ x    Line 1394 column 7 - No punctuation at para end?
 Matches source.
 
 Co. of Marlboro, Ohio.
-    Line 1482 column 3 - Extra period?
+x    Line 1482 column 3 - Extra period?
+Matches source.
 
 Swift. Do you think I would write the, 'Tale of a Tub'?
-    Line 2013 column 38 - Query punctuation after the?
+x    Line 2013 column 38 - Query punctuation after the?
+Matches source.
 
 lady's proper title is Mrs.; and he had broadened this
-    Line 2083 column 27 - Double punctuation?
+x    Line 2083 column 27 - Double punctuation?
+Matches source.
 
 "Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
-    Line 2172 column 18 - Query punctuation after my?
+x    Line 2172 column 18 - Query punctuation after my?
+Matches source.
 
 "Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
-    Line 2172 column 26 - Query punctuation after my?
+x    Line 2172 column 26 - Query punctuation after my?
+Matches source.
 
 my! Oh, dear! 'Sometimes they die and oft do grieve.'
-    Line 2177 column 3 - Query punctuation after my?
+x    Line 2177 column 3 - Query punctuation after my?
+Matches source.
 
 word "forever" in capitals looked to him unnecessarily
-    Line 2693 column 13 - endquote missing punctuation?
+x    Line 2693 column 13 - endquote missing punctuation?
+Matches source.
 
 "Proposition I.: Conscious intelligence alone possesses
-    Line 2836 column 15 - Double punctuation?
+x    Line 2836 column 15 - Double punctuation?
+Matches source.
 
 "Proposition II.: Time is a period of constant progress.
-    Line 2839 column 16 - Double punctuation?
+x    Line 2839 column 16 - Double punctuation?
+Matches source.
 
 "Proposition III.: The creation of the complex requires
-    Line 2841 column 17 - Double punctuation?
+x    Line 2841 column 17 - Double punctuation?
+Matches source.
 
 "Proposition IV.: A tree is not created by conscious
-    Line 2845 column 16 - Double punctuation?
+x    Line 2845 column 16 - Double punctuation?
+Matches source.
 
 "Proposition V.: A top is created by conscious intelligence.
-    Line 2848 column 15 - Double punctuation?
+x    Line 2848 column 15 - Double punctuation?
+Matches source.
 
 James. Oh my! Ain't it fun! We're gaining on him."
-    Line 2933 column 13 - Query punctuation after my?
+x    Line 2933 column 13 - Query punctuation after my?
+Matches source.
 
 "In which barn is Madge T.?" he asked.
-    Line 3277 column 26 - Double punctuation?
+x    Line 3277 column 26 - Double punctuation?
+Matches source.
 
 Montcalm, and whispered,
-    Line 3295 column 24 - No punctuation at para end?
+x    Line 3295 column 24 - No punctuation at para end?
+Matches source.
 
 from his back porch,
-    Line 3306 column 20 - No punctuation at para end?
+x    Line 3306 column 20 - No punctuation at para end?
+Matches source.
 
 yelling at the top of his voice,
-    Line 3341 column 32 - No punctuation at para end?
+x    Line 3341 column 32 - No punctuation at para end?
+Matches source.
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
-    Line 3408 column 49 - Non-ASCII character 195
+x    Line 3408 column 49 - Non-ASCII character 195
+Matches source.
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
-    Line 3408 column 44 - Query word schl� - not reporting duplicates
+x    Line 3408 column 44 - Query word schl� - not reporting duplicates
+Matches source.
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
-    Line 3408 column 50 - Query word gst - not reporting duplicates
+x    Line 3408 column 50 - Query word gst - not reporting duplicates
+Matches source.
 
 The wood was here easy of access. It had been used as
-    Line 3480 - Mismatched quotes
+x    Line 3480 - Mismatched quotes
+Matches source.
 
 Montcalm shouted,
-    Line 3826 column 17 - No punctuation at para end?
+x    Line 3826 column 17 - No punctuation at para end?
+Matches source.
 
 dam was Matilda, sired by Cal, he by MarshalNey, he by
-    Line 3943 column 37 - Query word MarshalNey - not reporting duplicates
+x    Line 3943 column 37 - Query word MarshalNey - not reporting duplicates
+Matches source.
 
 was raised, a head thrust out and Wallace inquired,
-    Line 3975 column 51 - No punctuation at para end?
+x    Line 3975 column 51 - No punctuation at para end?
+Matches sources.
 
 What do you want?"
-    Line 3977 column 18 - Wrongspaced quotes?
+x    Line 3977 column 18 - Wrongspaced quotes?
+Fixed missing quote.
 
 What do you want?"
-    Line 3978 - Mismatched quotes
+x    Line 3978 - Mismatched quotes
+Fixed missing quote.
 
 the feelings of others, boldly replied,
-    Line 3982 column 39 - No punctuation at para end?
+x    Line 3982 column 39 - No punctuation at para end?
+Matches source.
 
 window,
-    Line 4015 column 7 - No punctuation at para end?
+x    Line 4015 column 7 - No punctuation at para end?
+Replaced comma with period.
 
 daylight through some of you,"
-    Line 4018 column 30 - No punctuation at para end?
+x    Line 4018 column 30 - No punctuation at para end?
+Replaced comma with period.
 
 about some cigars, Mr. Montcalm,"
-    Line 4204 column 33 - No punctuation at para end?
+x    Line 4204 column 33 - No punctuation at para end?
+Replaced comma with period.
 
 the cards with dexterity." It beat all how they tore
     Line 4355 column 26 - Wrongspaced quotes?

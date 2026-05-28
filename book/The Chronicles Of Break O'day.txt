@@ -3974,7 +3974,7 @@ called the name of Wallace and uttered with it many an
 unnecessary and insinuating remark. At last a window
 was raised, a head thrust out and Wallace inquired,
 
-What do you want?"
+"What do you want?"
 
 In spite of their want of respect for the place and its
 occupants, the party hesitated to answer the gruff
@@ -4012,10 +4012,10 @@ home."
 
 A cord bedstead gave forth a dolorous groaning, and
 directly after the face of Ab appeared at a chamber
-window,
+window.
 
 "Now," said Wallace, "get out of here, or I'll let
-daylight through some of you,"
+daylight through some of you."
 
 This injudicious threat brought a shower of stones,
 which several substantial citizens, including Ratke and
@@ -4201,7 +4201,7 @@ are favoring your legs in the least."
 
 "No, I won't," assured Archer. "Folks don't seem to
 realize that a laboring man gets tired. You spoke something
-about some cigars, Mr. Montcalm,"
+about some cigars, Mr. Montcalm."
 
 "So I did," said Montcalm, handing him a half-dozen
 of the desired gifts, which had a superior flavor to which
