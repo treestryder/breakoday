@@ -11,179 +11,179 @@ Matches source.
 
 
 E. EVERETT HOWE
-x    Line 3 column 15 - No punctuation at para end?
-Author's initialized name.
+-    Line 3 column 15 - No punctuation at para end?
+Matches source.
 
 Next to the "one-man saw" the ax was the tool most
-x    Line 134 column 24 - endquote missing punctuation?
+-    Line 134 column 24 - endquote missing punctuation?
 Matches source.
 
 alacrity, "Derrick's Dough of Life." "There's Bill Higgins
-x    Line 331 column 36 - Query missing paragraph break?
+-    Line 331 column 36 - Query missing paragraph break?
 Matches source.
 
 "'When will the great day come? "For the day of vengeance
-x    Line 665 column 33 - Wrongspaced quotes?
+-    Line 665 column 33 - Wrongspaced quotes?
 Matches source.
 
 "'"From the time that the daily sacrifice shall be taken
-x    Line 668 column 3 - Wrongspaced quotes?
+-    Line 668 column 3 - Wrongspaced quotes?
 Matches source.
 
 there shall be a thousand two hundred and ninety days."
-x    Line 670 column 55 - Wrongspaced quotes?
+-    Line 670 column 55 - Wrongspaced quotes?
 Matches source.
 
 "'"From the time that the daily sacrifice shall be taken
-x    Line 671 - Mismatched quotes
+-    Line 671 - Mismatched quotes
 Matches source.
 
 '"'That which the palmer-worm hath left hath the locust
-x    Line 676 - Mismatched quotes
+-    Line 676 - Mismatched quotes
 Matches source.
 
 '"'We've had the caterpillar and the grasshopper and the
-x    Line 679 - Mismatched quotes
+-    Line 679 - Mismatched quotes
 Matches source.
 
 "Tat ain't te reason at all," answered a tall German
-x    Line 872 column 11 - Query word te - not reporting duplicates
+-    Line 872 column 11 - Query word te - not reporting duplicates
 Matches source.
 
 voice of Mrs. Grippin calling from the chamber,
-x    Line 1038 column 47 - No punctuation at para end?
+-    Line 1038 column 47 - No punctuation at para end?
 Matches source.
 
 he said slowly and emphatically,
-x    Line 1131 column 32 - No punctuation at para end?
+-    Line 1131 column 32 - No punctuation at para end?
 Matches source.
 
 "Proposition I.: The will of man has the power of
-x    Line 1133 column 15 - Double punctuation?
+-    Line 1133 column 15 - Double punctuation?
 Matches source.
 
 "Proposition II.: All external forces acting upon the
-x    Line 1136 column 16 - Double punctuation?
+-    Line 1136 column 16 - Double punctuation?
 Matches source.
 
 "Proposition III.: Whenever in --"
-x    Line 1140 column 17 - Double punctuation?
+-    Line 1140 column 17 - Double punctuation?
 Matches source.
 
     Washington, D. C, March 4, 187-
-x    Line 1339 column 34 - Hyphen at end of line?
+-    Line 1339 column 34 - Hyphen at end of line?
 Matches source.
 
 saying,
-x    Line 1394 column 7 - No punctuation at para end?
+-    Line 1394 column 7 - No punctuation at para end?
 Matches source.
 
 Co. of Marlboro, Ohio.
-x    Line 1482 column 3 - Extra period?
+-    Line 1482 column 3 - Extra period?
 Matches source.
 
 Swift. Do you think I would write the, 'Tale of a Tub'?
-x    Line 2013 column 38 - Query punctuation after the?
+-    Line 2013 column 38 - Query punctuation after the?
 Matches source.
 
 lady's proper title is Mrs.; and he had broadened this
-x    Line 2083 column 27 - Double punctuation?
+-    Line 2083 column 27 - Double punctuation?
 Matches source.
 
 "Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
-x    Line 2172 column 18 - Query punctuation after my?
+-    Line 2172 column 18 - Query punctuation after my?
 Matches source.
 
 "Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
-x    Line 2172 column 26 - Query punctuation after my?
+-    Line 2172 column 26 - Query punctuation after my?
 Matches source.
 
 my! Oh, dear! 'Sometimes they die and oft do grieve.'
-x    Line 2177 column 3 - Query punctuation after my?
+-    Line 2177 column 3 - Query punctuation after my?
 Matches source.
 
 word "forever" in capitals looked to him unnecessarily
-x    Line 2693 column 13 - endquote missing punctuation?
+-    Line 2693 column 13 - endquote missing punctuation?
 Matches source.
 
 "Proposition I.: Conscious intelligence alone possesses
-x    Line 2836 column 15 - Double punctuation?
+-    Line 2836 column 15 - Double punctuation?
 Matches source.
 
 "Proposition II.: Time is a period of constant progress.
-x    Line 2839 column 16 - Double punctuation?
+-    Line 2839 column 16 - Double punctuation?
 Matches source.
 
 "Proposition III.: The creation of the complex requires
-x    Line 2841 column 17 - Double punctuation?
+-    Line 2841 column 17 - Double punctuation?
 Matches source.
 
 "Proposition IV.: A tree is not created by conscious
-x    Line 2845 column 16 - Double punctuation?
+-    Line 2845 column 16 - Double punctuation?
 Matches source.
 
 "Proposition V.: A top is created by conscious intelligence.
-x    Line 2848 column 15 - Double punctuation?
+-    Line 2848 column 15 - Double punctuation?
 Matches source.
 
 James. Oh my! Ain't it fun! We're gaining on him."
-x    Line 2933 column 13 - Query punctuation after my?
+-    Line 2933 column 13 - Query punctuation after my?
 Matches source.
 
 "In which barn is Madge T.?" he asked.
-x    Line 3277 column 26 - Double punctuation?
+-    Line 3277 column 26 - Double punctuation?
 Matches source.
 
 Montcalm, and whispered,
-x    Line 3295 column 24 - No punctuation at para end?
+-    Line 3295 column 24 - No punctuation at para end?
 Matches source.
 
 from his back porch,
-x    Line 3306 column 20 - No punctuation at para end?
+-    Line 3306 column 20 - No punctuation at para end?
 Matches source.
 
 yelling at the top of his voice,
-x    Line 3341 column 32 - No punctuation at para end?
+-    Line 3341 column 32 - No punctuation at para end?
 Matches source.
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
-x    Line 3408 column 49 - Non-ASCII character 195
+-    Line 3408 column 49 - Non-ASCII character 195
 Matches source.
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
-x    Line 3408 column 44 - Query word schl� - not reporting duplicates
+-    Line 3408 column 44 - Query word schl� - not reporting duplicates
 Matches source.
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
-x    Line 3408 column 50 - Query word gst - not reporting duplicates
+-    Line 3408 column 50 - Query word gst - not reporting duplicates
 Matches source.
 
 The wood was here easy of access. It had been used as
-x    Line 3480 - Mismatched quotes
+-    Line 3480 - Mismatched quotes
 Matches source.
 
 Montcalm shouted,
-x    Line 3826 column 17 - No punctuation at para end?
+-    Line 3826 column 17 - No punctuation at para end?
 Matches source.
 
 dam was Matilda, sired by Cal, he by MarshalNey, he by
-x    Line 3943 column 37 - Query word MarshalNey - not reporting duplicates
+-    Line 3943 column 37 - Query word MarshalNey - not reporting duplicates
 Matches source.
 
 was raised, a head thrust out and Wallace inquired,
-x    Line 3975 column 51 - No punctuation at para end?
+-    Line 3975 column 51 - No punctuation at para end?
 Matches sources.
 
 What do you want?"
 x    Line 3977 column 18 - Wrongspaced quotes?
-Fixed missing quote.
+Added missing quote.
 
 What do you want?"
-x    Line 3978 - Mismatched quotes
-Fixed missing quote.
+-    Line 3978 - Mismatched quotes
+Fixed above.
 
 the feelings of others, boldly replied,
-x    Line 3982 column 39 - No punctuation at para end?
+-    Line 3982 column 39 - No punctuation at para end?
 Matches source.
 
 window,
@@ -199,46 +199,60 @@ x    Line 4204 column 33 - No punctuation at para end?
 Replaced comma with period.
 
 the cards with dexterity." It beat all how they tore
-    Line 4355 column 26 - Wrongspaced quotes?
+x    Line 4355 column 26 - Wrongspaced quotes?
+Moved quote.
 
 Wallace." The time I went on the raid over in Eaton I
-    Line 4384 column 9 - Wrongspaced quotes?
+x    Line 4384 column 9 - Wrongspaced quotes?
+Moved quote
 
 of euchre. Pa and Ab are ahead of us now,"
-    Line 4432 column 42 - No punctuation at para end?
+x    Line 4432 column 42 - No punctuation at para end?
+Replaced comma with period.
 
 By no means," answered Montcalm. "Talk on. Phleet."
-    Line 4479 column 13 - Wrongspaced quotes?
+x    Line 4479 column 13 - Wrongspaced quotes?
+Added missing quote.
 
 By no means," answered Montcalm. "Talk on. Phleet."
-    Line 4479 column 34 - Wrongspaced quotes?
+-    Line 4479 column 34 - Wrongspaced quotes?
+Fixed above.
 
 By no means," answered Montcalm. "Talk on. Phleet."
-    Line 4479 column 51 - Wrongspaced quotes?
+-    Line 4479 column 51 - Wrongspaced quotes?
+Fixed above.
 
 three men met." That whisky and cider together laid
-    Line 4494 column 15 - Wrongspaced quotes?
+x    Line 4494 column 15 - Wrongspaced quotes?
+Moved quote.
 
 "We must hurry," said Montcalm." We have no time
-    Line 4497 column 32 - Wrongspaced quotes?
+x    Line 4497 column 32 - Wrongspaced quotes?
+Moved quote.
 
-"Because I saw 'em," replied Archer," and I thought
-    Line 4620 column 37 - Wrongspaced quotes?
+"Because I saw 'em," replied Archer, " and I thought
+x    Line 4620 column 37 - Wrongspaced quotes?
+Moved quote.
 
 would not impart to bis shoes a perfect shine.
-    Line 4754 column 20 - Query word bis - not reporting duplicates
+x    Line 4754 column 20 - Query word bis - not reporting duplicates
+Corrected spelling.
 
 knight, could be lost in a wood,
-    Line 4787 column 32 - No punctuation at para end?
+-    Line 4787 column 32 - No punctuation at para end?
+Matches source.
 
 I found the money to pay Green," said Ratke. "Further than
-    Line 4980 column 32 - Wrongspaced quotes?
+x    Line 4980 column 32 - Wrongspaced quotes?
+Added missing quote.
 
 I found the money to pay Green," said Ratke. "Further than
-    Line 4980 column 46 - Wrongspaced quotes?
+-    Line 4980 column 46 - Wrongspaced quotes?
+Fixed above.
 
 that I can tell you nothing."
-    Line 4981 column 29 - Wrongspaced quotes?
+x    Line 4981 column 29 - Wrongspaced quotes?
+Matches source.
 
 parlor. "It's cool in here. Oh my! isn't this a nice
     Line 5013 column 34 - Query punctuation after my?
