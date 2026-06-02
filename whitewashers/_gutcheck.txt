@@ -251,68 +251,86 @@ I found the money to pay Green," said Ratke. "Further than
 Fixed above.
 
 that I can tell you nothing."
-x    Line 4981 column 29 - Wrongspaced quotes?
+-    Line 4981 column 29 - Wrongspaced quotes?
 Matches source.
 
 parlor. "It's cool in here. Oh my! isn't this a nice
-    Line 5013 column 34 - Query punctuation after my?
+-    Line 5013 column 34 - Query punctuation after my?
+Matches source.
 
 I know by intuition," said Montcalm. "Second sight, perhaps
-    Line 5047 column 21 - Wrongspaced quotes?
+x    Line 5047 column 21 - Wrongspaced quotes?
+Added missing quote.
 
 I know by intuition," said Montcalm. "Second sight, perhaps
-    Line 5047 column 38 - Wrongspaced quotes?
+-    Line 5047 column 38 - Wrongspaced quotes?
+Fixed above.
 
 you would call it."
-    Line 5048 column 19 - Wrongspaced quotes?
+-    Line 5048 column 19 - Wrongspaced quotes?
+Matches source.
 
 talked about it, but we have never set the time. Once in"
-    Line 5106 column 56 - endquote missing punctuation?
+x    Line 5106 column 56 - endquote missing punctuation?
+Removed extra quote.
 
 a while I think it never will be."
-    Line 5107 column 34 - Wrongspaced quotes?
+-    Line 5107 column 34 - Wrongspaced quotes?
+Matches source.
 
 fingers gripped together like the talons ot a destructive
-    Line 5250 column 41 - Query word ot - not reporting duplicates
+x    Line 5250 column 41 - Query word ot - not reporting duplicates
+Corrected spelling.
 
 "I dislike to speak about the sum I lent you. but the
-    Line 5309 column 45 - Extra period?
+x    Line 5309 column 45 - Extra period?
+Corrected case.
 
 "It is gone," Green affirmed," that is, the most of it.
-    Line 5562 column 30 - Wrongspaced quotes?
+x    Line 5562 column 30 - Wrongspaced quotes?
+Moved case.
 
 he pushed the slide to his lantern," and don't you dare
-    Line 5568 column 36 - Wrongspaced quotes?
+x    Line 5568 column 36 - Wrongspaced quotes?
+Moved quote.
 
 the night's events had wrought in is prospects. he had
-    Line 5791 column 47 - Extra period?
+x    Line 5791 column 47 - Extra period?
+Corrected case.
 
 tinge of doubt,there was no profit in that deed, that
-    Line 5906 column 15 - Missing space?
+x    Line 5906 column 15 - Missing space?
+Added space.
 
 the house broken into. There was the $2,000 gone."
-    Line 5918 column 22 - Query punctuation after into?
+x    Line 5918 column 22 - Query punctuation after into?
+Matches source.
 
 Mrs, Green was nearly overcome by grief, and the jury
     Line 6053 column 4 - Query punctuation after mrs?
 
 Mrs, Green was nearly overcome by grief, and the jury
-    Line 6053 column 4 - Query punctuation after mrs?
+x    Line 6053 column 4 - Query punctuation after mrs?
+Replaced comma with period.
 
 you had to up an' play that mean trick on 'im,"
-    Line 6162 column 47 - No punctuation at para end?
+x    Line 6162 column 47 - No punctuation at para end?
+Matches source.
 
 	s
-    Line 6268 column 1 - Tab character?
+x    Line 6268 column 1 - Tab character?
+Removed stray characters.
 
 	s
-    Line 6268 column 1 - Query word s - not reporting duplicates
+x    Line 6268 column 1 - Query word s - not reporting duplicates
+Fixed above.
 
 now"
-    Line 6279 column 3 - endquote missing punctuation?
-
+x    Line 6279 column 3 - endquote missing punctuation?
+Added missing period.
 now"
     Line 6279 column 4 - No punctuation at para end?
+Fixed above.
 
 in a rivulet, which joined the creek in the tamaracks,
     Line 6632 column 54 - No punctuation at para end?
