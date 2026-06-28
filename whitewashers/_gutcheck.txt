@@ -306,8 +306,9 @@ the house broken into. There was the $2,000 gone."
 x    Line 5918 column 22 - Query punctuation after into?
 Matches source.
 
-Mrs, Green was nearly overcome by grief, and the jury
+Mrs, x by grief, and the jury
     Line 6053 column 4 - Query punctuation after mrs?
+Corrected punctuation.
 
 Mrs, Green was nearly overcome by grief, and the jury
 x    Line 6053 column 4 - Query punctuation after mrs?
@@ -322,81 +323,104 @@ x    Line 6268 column 1 - Tab character?
 Removed stray characters.
 
 	s
-x    Line 6268 column 1 - Query word s - not reporting duplicates
+-    Line 6268 column 1 - Query word s - not reporting duplicates
 Fixed above.
 
 now"
 x    Line 6279 column 3 - endquote missing punctuation?
 Added missing period.
+
 now"
-    Line 6279 column 4 - No punctuation at para end?
+-    Line 6279 column 4 - No punctuation at para end?
 Fixed above.
 
 in a rivulet, which joined the creek in the tamaracks,
-    Line 6632 column 54 - No punctuation at para end?
+x    Line 6632 column 54 - No punctuation at para end?
+Corrected punctuation.
 
-"So I did," replied Montcalm," and I have a right to
-    Line 6770 column 30 - Wrongspaced quotes?
+"So I did," replied Montcalm, "and I have a right to
+x    Line 6770 column 30 - Wrongspaced quotes?
+Moved quote.
 
 IVANHOE CRITICISED BY A MASTER
-    Line 6908 column 30 - No punctuation at para end?
+x   Line 6908 column 30 - No punctuation at para end?
+Added period.
 
 "No," objected Wingscheut. "it's a crowin'-out."
-    Line 6990 column 26 - Extra period?
+x    Line 6990 column 26 - Extra period?
+Corrected punctuation.
 
 to Mrs, Boyle's. Thank you for your information."
-    Line 7249 column 7 - Query punctuation after mrs?
+x    Line 7249 column 7 - Query punctuation after mrs?
+Corrected punctuation.
 
 to Mrs, Boyle's. Thank you for your information."
-    Line 7249 column 7 - Query punctuation after mrs?
+-    Line 7249 column 7 - Query punctuation after mrs?
+Fixed above.
 
 "Oh, as to that," Durgenson returned," I can't give
-    Line 7377 column 38 - Wrongspaced quotes?
+x    Line 7377 column 38 - Wrongspaced quotes?
+Moved quote.
 
 "It's none o' your bisness where I'm goin', "he replied,
-    Line 7562 column 45 - Wrongspaced quotes?
+x    Line 7562 column 45 - Wrongspaced quotes?
+Moved quote.
 
 the other occasionally belaboring him with a tamarack
-    Line 7706 column 53 - No punctuation at para end?
+x    Line 7706 column 53 - No punctuation at para end?
+Added missing line.
 
 lately.? Set down and give us a story."
-    Line 8188 column 7 - Double punctuation?
+x    Line 8188 column 7 - Double punctuation?
+Removed stray period.
 
 'Did you turn Jack out"' 'No,' says Ben, 'didn't
-    Line 8257 column 22 - endquote missing punctuation?
+x    Line 8257 column 22 - endquote missing punctuation?
+Removed extra quote.
 
 around, and they ought to be broke up."
-    Line 8264 column 39 - Wrongspaced quotes?
+-    Line 8264 column 39 - Wrongspaced quotes?
+Fixed above.
 
 "In my field tagging after a fellow that come from th
-    Line 8324 column 51 - Query word th - not reporting duplicates
+x    Line 8324 column 51 - Query word th - not reporting duplicates
+Added missing e.
 
 Briggs, with considerable exaggeration, gave an account
-    Line 8341 - Mismatched quotes
+x    Line 8341 - Mismatched quotes
+Added closing quote.
 
 Alf." I ain't no little boy that's bound to give
-    Line 8849 column 5 - Wrongspaced quotes?
+x    Line 8849 column 5 - Wrongspaced quotes?
+Moved quote.
 
 In a few minutes Mrs, Boyle appeared, "We must
-    Line 8898 column 21 - Query punctuation after mrs?
+x    Line 8898 column 21 - Query punctuation after mrs?
+Corrected punctuation.
 
 In a few minutes Mrs, Boyle appeared, "We must
-    Line 8898 column 21 - Query punctuation after mrs?
+-    Line 8898 column 21 - Query punctuation after mrs?
+Fixed above.
 
 sensitive to an exposure of the misshapen part. Mrs,
-    Line 8914 column 52 - Query punctuation after mrs?
+x    Line 8914 column 52 - Query punctuation after mrs?
+Fixed punctuation.
 
 sensitive to an exposure of the misshapen part. Mrs,
-    Line 8914 column 52 - Query punctuation after mrs?
+-    Line 8914 column 52 - Query punctuation after mrs?
+Fixed above.
 
 "I was very warm and I could run better with them off,"
-    Line 8927 column 55 - No punctuation at para end?
+x    Line 8927 column 55 - No punctuation at para end?
+Corrected punctuation.
 
 bed, When this ws done, she descended; and
-    Line 8989 column 15 - Query word ws - not reporting duplicates
+x    Line 8989 column 15 - Query word ws - not reporting duplicates
+Corrected spelling.
 
 distant, sometimes near, always monotonous. more
-    Line 9009 column 43 - Extra period?
+x    Line 9009 column 43 - Extra period?
+Corrected punctuation.
 
 limited. As the young man was about to leave, he said;
     Line 9094 column 54 - No punctuation at para end?
