@@ -423,49 +423,64 @@ x    Line 9009 column 43 - Extra period?
 Corrected punctuation.
 
 limited. As the young man was about to leave, he said;
-    Line 9094 column 54 - No punctuation at para end?
+x    Line 9094 column 54 - No punctuation at para end?
+Corrected punctuation.
 
 you have two dollars,"
-    Line 9104 column 22 - No punctuation at para end?
+x    Line 9104 column 22 - No punctuation at para end?
+Corrected punctuation.
 
 never,"
-    Line 9147 column 7 - No punctuation at para end?
+x    Line 9147 column 7 - No punctuation at para end?
+Corrected punctuation, though it matched the source.
 
 breaking my promises!"
-    Line 9174 column 22 - Wrongspaced quotes?
+x    Line 9174 column 22 - Wrongspaced quotes?
+Removed extra quote.
 
 "No," said Mrs, Boyle, "it is God's and I must keep
-    Line 9178 column 15 - Query punctuation after mrs?
+x    Line 9178 column 15 - Query punctuation after mrs?
+Corrected punctuation.
 
 "No," said Mrs, Boyle, "it is God's and I must keep
-    Line 9178 column 15 - Query punctuation after mrs?
+-    Line 9178 column 15 - Query punctuation after mrs?
+Corrected above.
 
 the "Goad" Ratke called on the editor and demanded that
-    Line 9251 column 9 - endquote missing punctuation?
+-    Line 9251 column 9 - endquote missing punctuation?
+Matches source.
 
 to the Indianapolis "Standard" will greatly benefit me.
-    Line 9301 column 21 - Wrongspaced quotes?
+-    Line 9301 column 21 - Wrongspaced quotes?
+Matches source.
 
 to the Indianapolis "Standard" will greatly benefit me.
-    Line 9301 column 30 - Wrongspaced quotes?
+-    Line 9301 column 30 - Wrongspaced quotes?
+Matches source.
 
 to the Indianapolis "Standard" will greatly benefit me.
-    Line 9301 column 29 - endquote missing punctuation?
+-    Line 9301 column 29 - endquote missing punctuation?
+Matches source.
 
 enact special laws."
-    Line 9455 column 20 - Wrongspaced quotes?
+x    Line 9455 column 20 - Wrongspaced quotes?
+Added quote missing in source.
 
 authority," he continued, elevating his voice as he entered
-    Line 9467 column 11 - Wrongspaced quotes?
+x    Line 9467 column 11 - Wrongspaced quotes?
+Added quote missing in source.
 
 the kitchen, "is incompatible with good government.
-    Line 9468 column 14 - Wrongspaced quotes?
+-    Line 9468 column 14 - Wrongspaced quotes?
+Fixed above.
 
 There should be a diffusion of power."
-    Line 9469 column 38 - Wrongspaced quotes?
+-    Line 9469 column 38 - Wrongspaced quotes?
+Fixed above.
 
 Philospiæ Animi.' In two volumes I am undertaking to
-    Line 9511 column 9 - Non-ASCII character 195
+x    Line 9511 column 9 - Non-ASCII character 195
+Converted æ to ae.
 
 the succeeding summer. As the senator and Mrs, Baldwin
     Line 9610 column 46 - Query punctuation after mrs?
