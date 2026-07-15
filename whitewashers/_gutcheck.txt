@@ -483,91 +483,120 @@ x    Line 9511 column 9 - Non-ASCII character 195
 Converted æ to ae.
 
 the succeeding summer. As the senator and Mrs, Baldwin
-    Line 9610 column 46 - Query punctuation after mrs?
+x    Line 9610 column 46 - Query punctuation after mrs?
+Corrected punctuation.
 
 the succeeding summer. As the senator and Mrs, Baldwin
-    Line 9610 column 46 - Query punctuation after mrs?
+-    Line 9610 column 46 - Query punctuation after mrs?
+Fixed above.
 
 Mrs, Baldwin was unhurt. She turned at once to the
-    Line 9693 column 4 - Query punctuation after mrs?
+x    Line 9693 column 4 - Query punctuation after mrs?
+Corrected punctuation.
 
 Mrs, Baldwin was unhurt. She turned at once to the
-    Line 9693 column 4 - Query punctuation after mrs?
+-    Line 9693 column 4 - Query punctuation after mrs?
+Fixed above.
 
 approaching hoofs. Dropping his ax, he rushed to the,
-    Line 9717 column 53 - Query punctuation after the?
+x    Line 9717 column 53 - Query punctuation after the?
+Removed extra comma.
 
 ague"
-    Line 9743 column 4 - endquote missing punctuation?
+x    Line 9743 column 4 - endquote missing punctuation?
+Added period.
 
 ague"
-    Line 9743 column 5 - No punctuation at para end?
+-    Line 9743 column 5 - No punctuation at para end?
+Fixed above.
 
 "That feels a good deal better," he acknowledged, as he
-    Line 9764 column 1 - Wrongspaced quotes?
+-    Line 9764 column 1 - Wrongspaced quotes?
+Matches source.
 
 "That feels a good deal better," he acknowledged, as he
-    Line 9764 column 32 - Wrongspaced quotes?
+-    Line 9764 column 32 - Wrongspaced quotes?
+Matches source.
 
 arose after applying his medicine. "It beats all how
-    Line 9765 column 36 - Wrongspaced quotes?
+-    Line 9765 column 36 - Wrongspaced quotes?
+Matches source.
 
 quickly it helps it," he said, limping to his satchels and
-    Line 9766 column 21 - Wrongspaced quotes?
+-    Line 9766 column 21 - Wrongspaced quotes?
+Matches source.
 
 "You'll know just what to do for lameness," he concluded,
-    Line 9768 column 1 - Wrongspaced quotes?
+-    Line 9768 column 1 - Wrongspaced quotes?
+Matches source.
 
 "You'll know just what to do for lameness," he concluded,
-    Line 9768 column 43 - Wrongspaced quotes?
+-    Line 9768 column 43 - Wrongspaced quotes?
+Matches source.
 
 "I guess I will rub some of the panacea on my knee,
-    Line 9771 - Mismatched quotes
+x    Line 9771 - Mismatched quotes
+Added missing quote.
 
 ACTION IS EQUAL TO REACTION
-    Line 9781 column 27 - No punctuation at para end?
+x    Line 9781 column 27 - No punctuation at para end?
+Added missing period.
 
 to the New Jerusalem. With approbation he looked over
-    Line 9863 column 1 - Paragraph starts with lower-case
+x    Line 9863 column 1 - Paragraph starts with lower-case
+Removed carriage return / paragraph.
 
 "That is its strong point," said Ratke. "The propelling
-    Line 10149 - Mismatched quotes
+-    Line 10149 - Mismatched quotes
+Matches source.
 
 In the common wagon it is twenty."
-    Line 10156 column 34 - Wrongspaced quotes?
+-    Line 10156 column 34 - Wrongspaced quotes?
+Matches source.
 
 thousand and fifty-six vibrations per second. "The motion
-    Line 10224 column 47 - Wrongspaced quotes?
+x    Line 10224 column 47 - Wrongspaced quotes?
+Removed extra quote.
 
 What do you think you can pay me for my wagon?"
-    Line 10228 column 47 - Wrongspaced quotes?
+-    Line 10228 column 47 - Wrongspaced quotes?
+Matches source.
 
 martyr, and be is lauded as much as he has been abused.
-    Line 10250 column 12 - Query he/be error?
+x    Line 10250 column 12 - Query he/be error?
+Removed extra carriage return / paragraph.
 
 to reaction and in a contrary direction.'"
-    Line 10254 column 42 - Wrongspaced quotes?
+-    Line 10254 column 42 - Wrongspaced quotes?
+Matches source.
 
 My New Jerusalem is now rediculed. In a few years its
-    Line 10255 - Mismatched quotes
+-    Line 10255 - Mismatched quotes
+Matches source.
 
 you did back yonder?" asked Mr. Boutwell.
-    Line 10257 column 21 - Wrongspaced quotes?
+x    Line 10257 column 21 - Wrongspaced quotes?
+Added missing quote.
 
 Can you always make your horses stop as quick as
-    Line 10258 - Mismatched quotes
+-    Line 10258 - Mismatched quotes
+Fixed above.
 
 Mrs. Boyle gave John an account of her and her protégé
-    Line 10398 column 52 - Non-ASCII character 195
+x    Line 10398 column 52 - Non-ASCII character 195
+Converted protégé to protege in text file.
 
 Mrs. Boyle gave John an account of her and her protégé
-    Line 10398 column 53 - Query word g� - not reporting duplicates
+-    Line 10398 column 53 - Query word g� - not reporting duplicates
+Fixed above.
 
 that he was wanted for robbery at Birch & Bigney'S
-    Line 10453 column 50 - Capital "S"?
+x    Line 10453 column 50 - Capital "S"?
+Corrected case of S.
 
 of paper within, a sound as of some one closing a book
-    Line 10611 column 54 - No punctuation at para end?
+x    Line 10611 column 54 - No punctuation at para end?
+Removed extra carriage return / paragraph.
 
 and moving about in a chair. He was tempted to draw
     Line 10613 column 1 - Paragraph starts with lower-case
