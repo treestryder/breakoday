@@ -599,22 +599,28 @@ x    Line 10611 column 54 - No punctuation at para end?
 Removed extra carriage return / paragraph.
 
 and moving about in a chair. He was tempted to draw
-    Line 10613 column 1 - Paragraph starts with lower-case
+-    Line 10613 column 1 - Paragraph starts with lower-case
+Do not see what the problem is.
 
 his thoughts for a fortnight. His arm stole about
-    Line 10740 column 49 - No punctuation at para end?
+x    Line 10740 column 49 - No punctuation at para end?
+Added missing line.
 
 "Mr. Boutwell, my sister," said the major, ignoring
-    Line 10820 - Mismatched quotes
+x    Line 10820 - Mismatched quotes
+Added missing quote.
 
 "Who did you" have a fight with?"
-    Line 10838 column 33 - Wrongspaced quotes?
+x    Line 10838 column 33 - Wrongspaced quotes?
+Removed extra quote.
 
 "Who did you" have a fight with?"
-    Line 10838 column 12 - endquote missing punctuation?
+-    Line 10838 column 12 - endquote missing punctuation?
+Fixed above.
 
 Why, to-day, is the day Durgenson is coming," said
-    Line 10908 column 45 - Wrongspaced quotes?
+x    Line 10908 column 45 - Wrongspaced quotes?
+Added missing quote.
 
 able to defend it."
     Line 10918 column 19 - Wrongspaced quotes?
