@@ -623,28 +623,36 @@ x    Line 10908 column 45 - Wrongspaced quotes?
 Added missing quote.
 
 able to defend it."
-    Line 10918 column 19 - Wrongspaced quotes?
+x    Line 10918 column 19 - Wrongspaced quotes?
+Added missing quote.
 
 course, I'm willing to make some sacrifice, Major,"
-    Line 11011 column 51 - No punctuation at para end?
+x    Line 11011 column 51 - No punctuation at para end?
+Changed comma to period.
 
 life,"
-    Line 11033 column 6 - No punctuation at para end?
+x    Line 11033 column 6 - No punctuation at para end?
+Changed comma to period.
 
 The major knows he can trust me for that,"
-    Line 11036 column 42 - No punctuation at para end?
+x    Line 11036 column 42 - No punctuation at para end?
+Changed comma to period.
 
 only one shot'
-    Line 11102 column 14 - No punctuation at para end?
+-    Line 11102 column 14 - No punctuation at para end?
+Matches source.
 
-returned to her room, saying, as she did so,
-    Line 11162 column 44 - No punctuation at para end?
+only one shot, saying, as she did so,
+-    Line 11162 column 44 - No punctuation at para end?
+Matches source.
 
 wise nod," but I kind o' think George Washington was,
-    Line 11177 column 10 - Wrongspaced quotes?
+x    Line 11177 column 10 - Wrongspaced quotes?
+Moved space.
 
 He was a poet, you know."
-    Line 11202 column 25 - Wrongspaced quotes?
+x    Line 11202 column 25 - Wrongspaced quotes?
+Removed carriage return.
 
 world, you know,"
     Line 11211 column 17 - No punctuation at para end?
