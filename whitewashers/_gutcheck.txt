@@ -687,49 +687,64 @@ x    Line 11676 column 9 - Wrongspaced quotes?
 Moved quote.
 
 cattle had made m the stack, and at the entrance of which
-    Line 11757 column 16 - Query word m - not reporting duplicates
+x    Line 11757 column 16 - Query word m - not reporting duplicates
+Fixed spelling.
 
 Once more Montcalm crawled from the stack for water.
-    Line 11847 - Mismatched quotes
+x    Line 11847 - Mismatched quotes
+Removes stray quote.
 
 unfinished work, "Naturæ Concordia Philosophic Animi."
-    Line 11875 column 24 - Non-ASCII character 195
+x    Line 11875 column 24 - Non-ASCII character 195
+Converted to ASCII characters.
 
 can't get in there,"
-    Line 11885 column 20 - No punctuation at para end?
+x    Line 11885 column 20 - No punctuation at para end?
+Converted comma to period.
 
 shingles and other débris were dropped on the roof. By
-    Line 11941 column 21 - Non-ASCII character 195
+x    Line 11941 column 21 - Non-ASCII character 195
+Converted to ASCII characters.
 
 shingles and other débris were dropped on the roof. By
-    Line 11941 column 19 - Query word d� - not reporting duplicates
+-    Line 11941 column 19 - Query word d� - not reporting duplicates
+Fixed above.
 
 Sparks. "1 ain't a goin' to say I won't give no help
-    Line 12018 column 8 - Query standalone 1
+x    Line 12018 column 8 - Query standalone 1
+Fixed spelling.
 
 been, and among them she saw a page of "Naturæ Concordia
-    Line 12130 column 46 - Non-ASCII character 195
+x    Line 12130 column 46 - Non-ASCII character 195
+Converted to ASCII characters.
 
 Philosophiæ Animi," which could be easily read, but
-    Line 12131 column 11 - Non-ASCII character 195
+x    Line 12131 column 11 - Non-ASCII character 195
+Converted to ASCII characters.
 
 "1 will write after I get settled," answered John. "But
-    Line 12306 column 2 - Query standalone 1
+x    Line 12306 column 2 - Query standalone 1
+Fixed spelling.
 
 regards to his nephew "Johnny"? Had he known, as he stood
-    Line 12724 column 29 - endquote missing punctuation?
+-    Line 12724 column 29 - endquote missing punctuation?
+Matches source.
 
 you never picked huckleberries in that swamp,"
-    Line 12757 column 46 - No punctuation at para end?
+x    Line 12757 column 46 - No punctuation at para end?
+Converted from comma to period.
 
 "Maybe you'd like to read it,' said the New Yorker,
-    Line 12865 - Mismatched quotes
+x    Line 12865 - Mismatched quotes
+Fixed quote.
 
 "I reckoned likely," pursued Wrengell. "I've been
-    Line 12914 - Mismatched quotes
+x    Line 12914 - Mismatched quotes
+Removed extra quote in the source.
 
 "That I can't tell you," said the peddler. "all I can
-    Line 13075 column 42 - Extra period?
+x    Line 13075 column 42 - Extra period?
+Corrected case in All.
 
 passenger-house. A pair of trucks with "Phoenix Mills" labeled
     Line 13294 column 53 - endquote missing punctuation?
