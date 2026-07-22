@@ -1,0 +1,265 @@
+
+
+File: C:\Users\Natha\src\breakoday\book\The Chronicles Of Break O'day.txt
+
+   --> 10 lines in this file contain '.,'. Not reporting them.
+   --> 1308 lines in this file are short. Not reporting short lines.
+   --> There are 22 spaced dashes and em-dashes. Not reporting them.
+
+
+E. EVERETT HOWE
+    Line 3 column 15 - No punctuation at para end?
+
+Next to the "one-man saw" the ax was the tool most
+    Line 134 column 24 - endquote missing punctuation?
+
+alacrity, "Derrick's Dough of Life." "There's Bill Higgins
+    Line 331 column 36 - Query missing paragraph break?
+
+"'When will the great day come? "For the day of vengeance
+    Line 665 column 33 - Wrongspaced quotes?
+
+"'"From the time that the daily sacrifice shall be taken
+    Line 668 column 3 - Wrongspaced quotes?
+
+there shall be a thousand two hundred and ninety days."
+    Line 670 column 55 - Wrongspaced quotes?
+
+"'"From the time that the daily sacrifice shall be taken
+    Line 671 - Mismatched quotes
+
+'"'That which the palmer-worm hath left hath the locust
+    Line 676 - Mismatched quotes
+
+'"'We've had the caterpillar and the grasshopper and the
+    Line 679 - Mismatched quotes
+
+"Tat ain't te reason at all," answered a tall German
+    Line 872 column 11 - Query word te - not reporting duplicates
+
+voice of Mrs. Grippin calling from the chamber,
+    Line 1038 column 47 - No punctuation at para end?
+
+he said slowly and emphatically,
+    Line 1131 column 32 - No punctuation at para end?
+
+"Proposition I.: The will of man has the power of
+    Line 1133 column 15 - Double punctuation?
+
+"Proposition II.: All external forces acting upon the
+    Line 1136 column 16 - Double punctuation?
+
+"Proposition III.: Whenever in --"
+    Line 1140 column 17 - Double punctuation?
+
+    Washington, D. C, March 4, 187-
+    Line 1339 column 34 - Hyphen at end of line?
+
+saying,
+    Line 1394 column 7 - No punctuation at para end?
+
+Co. of Marlboro, Ohio.
+    Line 1482 column 3 - Extra period?
+
+Swift. Do you think I would write the, 'Tale of a Tub'?
+    Line 2013 column 38 - Query punctuation after the?
+
+lady's proper title is Mrs.; and he had broadened this
+    Line 2083 column 27 - Double punctuation?
+
+"Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
+    Line 2172 column 18 - Query punctuation after my?
+
+"Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
+    Line 2172 column 26 - Query punctuation after my?
+
+my! Oh, dear! 'Sometimes they die and oft do grieve.'
+    Line 2177 column 3 - Query punctuation after my?
+
+word "forever" in capitals looked to him unnecessarily
+    Line 2693 column 13 - endquote missing punctuation?
+
+"Proposition I.: Conscious intelligence alone possesses
+    Line 2836 column 15 - Double punctuation?
+
+"Proposition II.: Time is a period of constant progress.
+    Line 2839 column 16 - Double punctuation?
+
+"Proposition III.: The creation of the complex requires
+    Line 2841 column 17 - Double punctuation?
+
+"Proposition IV.: A tree is not created by conscious
+    Line 2845 column 16 - Double punctuation?
+
+"Proposition V.: A top is created by conscious intelligence.
+    Line 2848 column 15 - Double punctuation?
+
+James. Oh my! Ain't it fun! We're gaining on him."
+    Line 2933 column 13 - Query punctuation after my?
+
+"In which barn is Madge T.?" he asked.
+    Line 3277 column 26 - Double punctuation?
+
+Montcalm, and whispered,
+    Line 3295 column 24 - No punctuation at para end?
+
+from his back porch,
+    Line 3306 column 20 - No punctuation at para end?
+
+yelling at the top of his voice,
+    Line 3341 column 32 - No punctuation at para end?
+
+"Ton't kill a man vat ain't to plame! Warum schlägst
+    Line 3408 column 49 - Non-ASCII character 195
+
+"Ton't kill a man vat ain't to plame! Warum schlägst
+    Line 3408 column 44 - Query word schl� - not reporting duplicates
+
+"Ton't kill a man vat ain't to plame! Warum schlägst
+    Line 3408 column 50 - Query word gst - not reporting duplicates
+
+The wood was here easy of access. It had been used as
+    Line 3480 - Mismatched quotes
+
+Montcalm shouted,
+    Line 3826 column 17 - No punctuation at para end?
+
+dam was Matilda, sired by Cal, he by MarshalNey, he by
+    Line 3943 column 37 - Query word MarshalNey - not reporting duplicates
+
+was raised, a head thrust out and Wallace inquired,
+    Line 3975 column 51 - No punctuation at para end?
+
+the feelings of others, boldly replied,
+    Line 3982 column 39 - No punctuation at para end?
+
+knight, could be lost in a wood,
+    Line 4787 column 32 - No punctuation at para end?
+
+parlor. "It's cool in here. Oh my! isn't this a nice
+    Line 5013 column 34 - Query punctuation after my?
+
+the house broken into. There was the $2,000 gone."
+    Line 5918 column 22 - Query punctuation after into?
+
+you had to up an' play that mean trick on 'im,"
+    Line 6162 column 47 - No punctuation at para end?
+
+"So I did," replied Montcalm," and I have a right to
+    Line 6770 column 30 - Wrongspaced quotes?
+
+the "Goad" Ratke called on the editor and demanded that
+    Line 9251 column 9 - endquote missing punctuation?
+
+to the Indianapolis "Standard" will greatly benefit me.
+    Line 9301 column 21 - Wrongspaced quotes?
+
+to the Indianapolis "Standard" will greatly benefit me.
+    Line 9301 column 30 - Wrongspaced quotes?
+
+to the Indianapolis "Standard" will greatly benefit me.
+    Line 9301 column 29 - endquote missing punctuation?
+
+"That is its strong point," said Ratke. "The propelling
+    Line 10148 - Mismatched quotes
+
+In the common wagon it is twenty."
+    Line 10155 column 34 - Wrongspaced quotes?
+
+martyr, and be is lauded as much as he has been abused.
+    Line 10249 column 12 - Query he/be error?
+
+to reaction and in a contrary direction.'"
+    Line 10252 column 42 - Wrongspaced quotes?
+
+only one shot'
+    Line 11100 column 14 - No punctuation at para end?
+
+returned to her room, saying, as she did so,
+    Line 11160 column 44 - No punctuation at para end?
+
+He was a poet, you know."
+    Line 11199 column 25 - Wrongspaced quotes?
+
+I am afraid to run in debt any more," said Ratke.
+    Line 11638 column 37 - Wrongspaced quotes?
+
+"I will do the work alone."
+    Line 11639 column 1 - Wrongspaced quotes?
+
+"I will do the work alone."
+    Line 11639 column 27 - Wrongspaced quotes?
+
+I am afraid to run in debt any more," said Ratke.
+    Line 11640 - Mismatched quotes
+
+she said. "I can't tell you. what they are, but I wish you
+    Line 12294 column 28 - Extra period?
+
+regards to his nephew "Johnny"? Had he known, as he stood
+    Line 12720 column 29 - endquote missing punctuation?
+
+"I reckoned likely," pursued Wrengell. "I've been
+    Line 12910 - Mismatched quotes
+
+can tell 'em, and so can I."
+    Line 12940 column 28 - Wrongspaced quotes?
+
+passenger-house. A pair of trucks with "Phoenix Mills" labeled
+    Line 13290 column 53 - endquote missing punctuation?
+
+saving its preponderance of length,
+    Line 13545 column 35 - No punctuation at para end?
+
+"A minstrel sang often Euterpa's gay song
+    Line 14198 - Mismatched quotes
+
+Measures," "Reconstruction," "Currency."
+    Line 14352 column 10 - Query missing paragraph break?
+
+leaving her breakfast dishes unwashed, "stole a march"
+    Line 14961 column 53 - endquote missing punctuation?
+
+all running at once. It's, 'Dabney, I want some panacea,'
+    Line 15437 column 26 - Query punctuation after it's?
+
+"Gravity decreases," said the major, "as the square of
+    Line 15715 - Mismatched quotes
+
+From "An Account of Ingham County From Its Organization"
+    Line 15952 column 55 - endquote missing punctuation?
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+    Line 15955 column 6 - Forward slash?
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+    Line 15955 column 1 - Query word http - not reporting duplicates
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+    Line 15955 column 26 - Query word m - not reporting duplicates
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+    Line 15955 column 37 - Query digit in ARH7656.0001.001
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+    Line 15955 column 12 - Missing space?
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+    Line 15955 column 16 - Missing space?
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
+    Line 15955 column 22 - Missing space?
+
+"Rough and Ready," and he edited a set of stories about White
+    Line 15962 column 1 - Wrongspaced quotes?
+
+"Rough and Ready," and he edited a set of stories about White
+    Line 15962 column 18 - Wrongspaced quotes?
+
+Oak and Leroy townships, "Chronicles of Break o'Day." These
+    Line 15963 column 26 - Wrongspaced quotes?
+
+Oak and Leroy townships, "Chronicles of Break o'Day." These
+    Line 15963 column 53 - Wrongspaced quotes?
+
+Note: Queried word te was duplicated 33 times
