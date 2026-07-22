@@ -747,46 +747,60 @@ x    Line 13075 column 42 - Extra period?
 Corrected case in All.
 
 passenger-house. A pair of trucks with "Phoenix Mills" labeled
-    Line 13294 column 53 - endquote missing punctuation?
+x    Line 13294 column 53 - endquote missing punctuation?
+Matches source.
 
 "That set 'em to thinking. They come together and
-    Line 13492 - Mismatched quotes
+x    Line 13492 - Mismatched quotes
+Removed carriage return. Quotes match source.
 
 saving its preponderance of length,
-    Line 13550 column 35 - No punctuation at para end?
+-    Line 13550 column 35 - No punctuation at para end?
+Matches source.
 
 on his knee. No longer did he speculate or philosophize. he
-    Line 13849 column 56 - Extra period?
+x    Line 13849 column 56 - Extra period?
+Corrected case.
 
 "A minstrel sang often Euterpa's gay song
-    Line 14203 - Mismatched quotes
+-    Line 14203 - Mismatched quotes
+Matched source.
 
 wealth in Ann Arbor,
-    Line 14294 column 20 - No punctuation at para end?
+x    Line 14294 column 20 - No punctuation at para end?
+Replaced comma with period, though it matched source.
 
 Measures," "Reconstruction," "Currency."
-    Line 14357 column 10 - Query missing paragraph break?
+-    Line 14357 column 10 - Query missing paragraph break?
+Matched source.
 
 "I don't blame you a bit," said Durgenson. "That's
-    Line 14378 - Mismatched quotes
+x    Line 14378 - Mismatched quotes
+Removed stray carriage return.
 
 go up there where I said, and I'll be up directly."
-    Line 14384 column 51 - Wrongspaced quotes?
+-    Line 14384 column 51 - Wrongspaced quotes?
+Matches source.
 
 She's making game of you. I didn't want you to stop
-    Line 14385 - Mismatched quotes
+-    Line 14385 - Mismatched quotes
+Matches source.
 
 "Vou must not interrupt me," said Mrs. Baldwin.
-    Line 14468 column 1 - Query word Vou - not reporting duplicates
+x    Line 14468 column 1 - Query word Vou - not reporting duplicates
+Corrected spelling.
 
 Mrs, Baldwin followed Durgenson.
-    Line 14627 column 4 - Query punctuation after mrs?
+x    Line 14627 column 4 - Query punctuation after mrs?
+Changed comma to period.
 
 Mrs, Baldwin followed Durgenson.
-    Line 14627 column 4 - Query punctuation after mrs?
+-    Line 14627 column 4 - Query punctuation after mrs?
+Fixed above.
 
 Mallard." In thy wanderings through the wood thou hast
-    Line 14661 column 9 - Wrongspaced quotes?
+x    Line 14661 column 9 - Wrongspaced quotes?
+Moved quote.
 
 leaving her breakfast dishes unwashed, "stole a march"
     Line 14967 column 53 - endquote missing punctuation?
