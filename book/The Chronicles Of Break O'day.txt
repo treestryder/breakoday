@@ -15354,7 +15354,7 @@ your good fortune," said the major.
 "No," replied John, "I have thought of you every
 day, Major. I have had a great deal of business to attend
 to, or I should have been here sooner. Would you like to
-take a ride. with me? I mean all of you."
+take a ride with me? I mean all of you."
 
 "I do not care for pleasure now," said the major sadly.
 "I shall never be myself again, John. Bitterness is my
@@ -15467,7 +15467,6 @@ the first jump surprised Ratke by settling down to a trot
 which brought him steadily nearer the wheel of Sparks's
 sulky.
 
-
 "By George!" cried the major, in great excitement,
 rising to his feet and with his whip extended, standing like
 a picture of an ancient warrior on a chariot brandishing a
@@ -15494,7 +15493,7 @@ who knew that Mrs. Grippin would be as averse as he to
 the triumph of Sparks.
 
 "Oh, do just as you want to," replied Mrs. Grippin in
-a resigned manner. "You will any way."
+a resigned manner, "You will any way."
 
 "Step along there, Taylor!" sang the major with another
 flourish of his whip. "Get down to it, boy! Steady
@@ -15705,7 +15704,7 @@ its application."
 "How did you change its application?" inquired
 John.
 
-"Gravity decreases," said the major, "as the square df
+"Gravity decreases," said the major, "as the square of
 the distance increases. The absolute force of a center of
 attraction is the intensity of force of attraction at a point
 multiplied by the square of the distance, which equals L
@@ -15829,7 +15828,6 @@ On the floor were many pieces of newly whittled wood
 and many cast irons. He was holding in an upright
 position an S-shaped bar about his own height, which
 he was giving the last few touches with his jack-knife
-
 "This will greatly increase the modulus of the machine,"
 remarked the old man to himself, as he surveyed his work.
 "This saves the use of one wheel and cog. Unless I am
@@ -15852,7 +15850,7 @@ kerosene."
 John.
 
 "Just as you like," said Mrs. Grippin, as she closed the
-door." Set in the dark like heathens if you want to.
+door. "Set in the dark like heathens if you want to.
 Some folks are so funny about such things."
 
 "How little we are talking," remarked John. "Do
@@ -15948,7 +15946,7 @@ characters, incorrect characters, hyphens to be removed, entire
 pages missing or gibberish. This repair work was completed and
 the book released through the Gutenberg Project by Nathan
 Hartley. Nathan performed this work in honor of his
-Great-Great-Great-Grandfather George Washington Holland Jr,
+Great-Great-Great-Grandfather George Washington Holland Jr.,
 from whom these stories are believed to have originated.
 
 From "An Account of Ingham County From Its Organization"

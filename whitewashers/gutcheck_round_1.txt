@@ -803,37 +803,48 @@ x    Line 14661 column 9 - Wrongspaced quotes?
 Moved quote.
 
 leaving her breakfast dishes unwashed, "stole a march"
-    Line 14967 column 53 - endquote missing punctuation?
+-    Line 14967 column 53 - endquote missing punctuation?
+Matches source.
 
 take a ride. with me? I mean all of you."
-    Line 15363 column 12 - Extra period?
+x    Line 15363 column 12 - Extra period?
+Removed period.
 
 all running at once. It's, 'Dabney, I want some panacea,'
-    Line 15443 column 26 - Query punctuation after it's?
+-    Line 15443 column 26 - Query punctuation after it's?
+Matches source.
 
 "Oh, do just as you want to," replied Mrs, Grippin in
-    Line 15502 column 42 - Query punctuation after mrs?
+x    Line 15502 column 42 - Query punctuation after mrs?
+Converted period to comma.
 
 "Oh, do just as you want to," replied Mrs, Grippin in
-    Line 15502 column 42 - Query punctuation after mrs?
+-    Line 15502 column 42 - Query punctuation after mrs?
+Fixed above.
 
 "Gravity decreases," said the major, "as the square df
-    Line 15714 column 52 - Query word df - not reporting duplicates
+x    Line 15714 column 52 - Query word df - not reporting duplicates
+Corrected spelling.
 
 "Gravity decreases," said the major, "as the square df
-    Line 15722 - Mismatched quotes
+-    Line 15722 - Mismatched quotes
+Fixed above.
 
 Mrs, Boyle, refusing to change her place of abode, continued
-    Line 15742 column 4 - Query punctuation after mrs?
+x    Line 15742 column 4 - Query punctuation after mrs?
+Fixed period.
 
 Mrs, Boyle, refusing to change her place of abode, continued
-    Line 15742 column 4 - Query punctuation after mrs?
+-    Line 15742 column 4 - Query punctuation after mrs?
+Fixed above.
 
 he was giving the last few touches with his jack-knife
-    Line 15837 column 54 - No punctuation at para end?
+x    Line 15837 column 54 - No punctuation at para end?
+Removed stray carriage return.
 
 door." Set in the dark like heathens if you want to.
-    Line 15861 column 6 - Wrongspaced quotes?
+x    Line 15861 column 6 - Wrongspaced quotes?
+Moved quote.
 
 Great-Great-Great-Grandfather George Washington Holland Jr,
     Line 15957 column 59 - Query punctuation after jr?
