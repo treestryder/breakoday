@@ -8,58 +8,76 @@ File: C:\Users\Natha\src\breakoday\book\The Chronicles Of Break O'day.txt
 
 
 E. EVERETT HOWE
-    Line 3 column 15 - No punctuation at para end?
+-    Line 3 column 15 - No punctuation at para end?
+Author's name matches source.
 
 Next to the "one-man saw" the ax was the tool most
-    Line 134 column 24 - endquote missing punctuation?
+-    Line 134 column 24 - endquote missing punctuation?
+Matches source.
 
 alacrity, "Derrick's Dough of Life." "There's Bill Higgins
-    Line 331 column 36 - Query missing paragraph break?
+-    Line 331 column 36 - Query missing paragraph break?
+Matches source.
 
 "'When will the great day come? "For the day of vengeance
-    Line 665 column 33 - Wrongspaced quotes?
+-    Line 665 column 33 - Wrongspaced quotes?
+Matches source.
 
 "'"From the time that the daily sacrifice shall be taken
-    Line 668 column 3 - Wrongspaced quotes?
+-    Line 668 column 3 - Wrongspaced quotes?
+Matches source.
 
 there shall be a thousand two hundred and ninety days."
-    Line 670 column 55 - Wrongspaced quotes?
+-    Line 670 column 55 - Wrongspaced quotes?
+Matches source.
 
 "'"From the time that the daily sacrifice shall be taken
-    Line 671 - Mismatched quotes
+-    Line 671 - Mismatched quotes
+Matches source.
 
 '"'That which the palmer-worm hath left hath the locust
-    Line 676 - Mismatched quotes
+-    Line 676 - Mismatched quotes
+Matches source.
 
 '"'We've had the caterpillar and the grasshopper and the
-    Line 679 - Mismatched quotes
+-    Line 679 - Mismatched quotes
+Matches source.
 
 "Tat ain't te reason at all," answered a tall German
-    Line 872 column 11 - Query word te - not reporting duplicates
+-    Line 872 column 11 - Query word te - not reporting duplicates
+Matches source.
 
 voice of Mrs. Grippin calling from the chamber,
-    Line 1038 column 47 - No punctuation at para end?
+-    Line 1038 column 47 - No punctuation at para end?
+Matches source.
 
 he said slowly and emphatically,
-    Line 1131 column 32 - No punctuation at para end?
+-    Line 1131 column 32 - No punctuation at para end?
+Matches source.
 
 "Proposition I.: The will of man has the power of
-    Line 1133 column 15 - Double punctuation?
+-    Line 1133 column 15 - Double punctuation?
+Matches source.
 
 "Proposition II.: All external forces acting upon the
-    Line 1136 column 16 - Double punctuation?
+-    Line 1136 column 16 - Double punctuation?
+Matches source.
 
 "Proposition III.: Whenever in --"
-    Line 1140 column 17 - Double punctuation?
+-    Line 1140 column 17 - Double punctuation?
+Matches source.
 
     Washington, D. C, March 4, 187-
-    Line 1339 column 34 - Hyphen at end of line?
+-    Line 1339 column 34 - Hyphen at end of line?
+Matches source.
 
 saying,
-    Line 1394 column 7 - No punctuation at para end?
+x    Line 1394 column 7 - No punctuation at para end?
+Removed carriage return.
 
 Co. of Marlboro, Ohio.
-    Line 1482 column 3 - Extra period?
+-    Line 1482 column 3 - Extra period?
+Matches source.
 
 Swift. Do you think I would write the, 'Tale of a Tub'?
     Line 2013 column 38 - Query punctuation after the?
@@ -113,7 +131,7 @@ yelling at the top of his voice,
     Line 3408 column 49 - Non-ASCII character 195
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
-    Line 3408 column 44 - Query word schl� - not reporting duplicates
+    Line 3408 column 44 - Query word schl� - not reporting duplicates
 
 "Ton't kill a man vat ain't to plame! Warum schlägst
     Line 3408 column 50 - Query word gst - not reporting duplicates
