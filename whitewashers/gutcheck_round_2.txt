@@ -48,8 +48,8 @@ Matches source.
 Matches source.
 
 voice of Mrs. Grippin calling from the chamber,
--    Line 1038 column 47 - No punctuation at para end?
-Matches source.
+x    Line 1038 column 47 - No punctuation at para end?
+Removed carriage return.
 
 he said slowly and emphatically,
 -    Line 1131 column 32 - No punctuation at para end?
@@ -157,7 +157,7 @@ Fixed above.
 
 The wood was here easy of access. It had been used as
 x    Line 3480 - Mismatched quotes
-Matches source.
+Removed stray quote.
 
 Montcalm shouted,
 x    Line 3826 column 17 - No punctuation at para end?
