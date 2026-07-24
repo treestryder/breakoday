@@ -192,85 +192,112 @@ you had to up an' play that mean trick on 'im,"
 Matches source.
 
 "So I did," replied Montcalm," and I have a right to
-    Line 6770 column 30 - Wrongspaced quotes?
+x    Line 6770 column 30 - Wrongspaced quotes?
+Moved quote.
 
 the "Goad" Ratke called on the editor and demanded that
-    Line 9251 column 9 - endquote missing punctuation?
+-    Line 9251 column 9 - endquote missing punctuation?
+Matches source.
 
 to the Indianapolis "Standard" will greatly benefit me.
-    Line 9301 column 21 - Wrongspaced quotes?
+-    Line 9301 column 21 - Wrongspaced quotes?
+Matches source.
 
 to the Indianapolis "Standard" will greatly benefit me.
-    Line 9301 column 30 - Wrongspaced quotes?
+-    Line 9301 column 30 - Wrongspaced quotes?
+Matches source.
 
 to the Indianapolis "Standard" will greatly benefit me.
-    Line 9301 column 29 - endquote missing punctuation?
+-    Line 9301 column 29 - endquote missing punctuation?
+Matches source.
 
 "That is its strong point," said Ratke. "The propelling
-    Line 10148 - Mismatched quotes
+x    Line 10148 - Mismatched quotes
+Removed carriage return.
 
 In the common wagon it is twenty."
-    Line 10155 column 34 - Wrongspaced quotes?
+-    Line 10155 column 34 - Wrongspaced quotes?
+Fixed above.
 
 martyr, and be is lauded as much as he has been abused.
-    Line 10249 column 12 - Query he/be error?
+x    Line 10249 column 12 - Query he/be error?
+Corrected spelling.
 
 to reaction and in a contrary direction.'"
-    Line 10252 column 42 - Wrongspaced quotes?
+-    Line 10252 column 42 - Wrongspaced quotes?
+Matches source.
 
 only one shot'
-    Line 11100 column 14 - No punctuation at para end?
+-    Line 11100 column 14 - No punctuation at para end?
+Matches source.
 
 returned to her room, saying, as she did so,
-    Line 11160 column 44 - No punctuation at para end?
+x    Line 11160 column 44 - No punctuation at para end?
+Removed carriage return.
 
 He was a poet, you know."
-    Line 11199 column 25 - Wrongspaced quotes?
+-    Line 11199 column 25 - Wrongspaced quotes?
+Matches source.
 
 I am afraid to run in debt any more," said Ratke.
-    Line 11638 column 37 - Wrongspaced quotes?
+x    Line 11638 column 37 - Wrongspaced quotes?
+Added missing quote.
 
 "I will do the work alone."
-    Line 11639 column 1 - Wrongspaced quotes?
+-    Line 11639 column 1 - Wrongspaced quotes?
+Fixed above.
 
 "I will do the work alone."
-    Line 11639 column 27 - Wrongspaced quotes?
+-    Line 11639 column 27 - Wrongspaced quotes?
+Fixed above.
 
 I am afraid to run in debt any more," said Ratke.
-    Line 11640 - Mismatched quotes
+-    Line 11640 - Mismatched quotes
+Fixed above.
 
 she said. "I can't tell you. what they are, but I wish you
-    Line 12294 column 28 - Extra period?
+x    Line 12294 column 28 - Extra period?
+Removed the period.
 
 regards to his nephew "Johnny"? Had he known, as he stood
-    Line 12720 column 29 - endquote missing punctuation?
+-    Line 12720 column 29 - endquote missing punctuation?
+Matches source.
 
 "I reckoned likely," pursued Wrengell. "I've been
-    Line 12910 - Mismatched quotes
+-    Line 12910 - Mismatched quotes
+Matches source.
 
 can tell 'em, and so can I."
-    Line 12940 column 28 - Wrongspaced quotes?
+-    Line 12940 column 28 - Wrongspaced quotes?
+Matches source.
 
 passenger-house. A pair of trucks with "Phoenix Mills" labeled
-    Line 13290 column 53 - endquote missing punctuation?
+-    Line 13290 column 53 - endquote missing punctuation?
+Matches source.
 
 saving its preponderance of length,
-    Line 13545 column 35 - No punctuation at para end?
+-    Line 13545 column 35 - No punctuation at para end?
+Matches source.
 
 "A minstrel sang often Euterpa's gay song
-    Line 14198 - Mismatched quotes
+-    Line 14198 - Mismatched quotes
+Matches source.
 
 Measures," "Reconstruction," "Currency."
-    Line 14352 column 10 - Query missing paragraph break?
+-    Line 14352 column 10 - Query missing paragraph break?
+Matches source.
 
 leaving her breakfast dishes unwashed, "stole a march"
-    Line 14961 column 53 - endquote missing punctuation?
+-    Line 14961 column 53 - endquote missing punctuation?
+Matches source.
 
 all running at once. It's, 'Dabney, I want some panacea,'
-    Line 15437 column 26 - Query punctuation after it's?
+-    Line 15437 column 26 - Query punctuation after it's?
+Matches source.
 
 "Gravity decreases," said the major, "as the square of
-    Line 15715 - Mismatched quotes
+x    Line 15715 - Mismatched quotes
+Added closing quote, though it matched the source.
 
 From "An Account of Ingham County From Its Organization"
     Line 15952 column 55 - endquote missing punctuation?
