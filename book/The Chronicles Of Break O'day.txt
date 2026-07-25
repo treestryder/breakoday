@@ -241,7 +241,7 @@ air of one who holds a secret and who feels his power.
 "I have heard a great many items of news this winter,"
 answered the major.
 
-"Yes, but the news -- the late news. You ain't heard
+"Yes, but the news--the late news. You ain't heard
 about the horse-thieves?"
 
 "Horse-thieves?" echoed Miss Warfle. "Are they
@@ -249,7 +249,7 @@ around again? Uncle James, you want to lock your barn
 or they'll be stealing Taylor."
 
 "Yes," continued the man, "they've been at it again.
-This time they called on, what's his name? -- this man that
+This time they called on, what's his name?--this man that
 raises horses over here. Queer I can't think."
 
 "Sparks," suggested the major. "Lyman Sparks has
@@ -260,7 +260,7 @@ Holmes. That's it, Holmes."
 
 "Oh," said the major. "The best horse Holmes has
 will not bring more than $300. Sparks has one for which
-he has been offered $600 -- Madge T., a very good blooded
+he has been offered $600--Madge T., a very good blooded
 animal. He thinks she can outstep my Taylor. He did
 pass me once, but he would not if Taylor had hung to the
 trot."
@@ -290,7 +290,7 @@ the good I can. I am agent for the Great American
 Panacea. This medicine is compounded of pine, hemlock,
 tamarack, cedar and spruce, besides sovereign roots and
 herbs known to the medical fraternity. It cures cuts,
-bruises, sprains, wounds, incisions, hurts, proud flesh --"
+bruises, sprains, wounds, incisions, hurts, proud flesh--"
 
 "What did you say your panicky is made of?" interrupted
 the fair-haired Miss Warfle.
@@ -582,12 +582,12 @@ the surface of a body. But that at the point of the
 revolutionary pivot is different. Here the wheel is continually
 scraping over the axle, a resistance which it requires
 much more force to overcome. A six-foot wheel revolves
-every -- let me see -- every six multiplied by three and one
+every--let me see--every six multiplied by three and one
 thousand and four hundred and sixteen ten-thousandths,"
 and the major began to figure on the wall, "every time it
 goes eighteen and eight thousand four hundred and
 ninety-six ten-thousandth's feet. A four-and-one-half-foot
-wheel revolves, I'll tell you in a moment -- every time it
+wheel revolves, I'll tell you in a moment--every time it
 goes fourteen and one thousand three hundred and
 seventy-two ten-thousandth's feet. The smaller wheels,
 having a swifter movement at the pivot, occasion a greater
@@ -623,7 +623,7 @@ When Montcalm's energy began to flag, the major inquired,
 
 "No, I was wondering about that," answered Montcalm;
 "it seems to me an ancient name would be proper, some
-kind of chariot, -- Pharaoh's chariot for instance."
+kind of chariot,--Pharaoh's chariot for instance."
 
 "No," said the major, shaking his head and clambering
 from the vehicle, "I call it the New Jerusalem."
@@ -650,7 +650,7 @@ he came bareheaded out to the barn, where my men and I
 were looking over the old wagon, the first one I invented,
 and he began:
 
-"'The world's going to burn -- going to burn up, I tell
+"'The world's going to burn--going to burn up, I tell
 you. The time of the Gentiles is fulfilled. Babylon the
 great is fallen, is fallen' (the old man always talked fast),
 'and is become the habitation of devils, and the hold of
@@ -808,7 +808,7 @@ heard of viscosity?"
 of solemnity into his voice, "that I have a sister who
 does not know the meaning of viscosity. It is derived
 from the Latin viscum. Viscum, viscositas; French, viscosite;
-Provencal, viscositat; Spanish, viscosidad; Portuguese, vis ----"
+Provencal, viscositat; Spanish, viscosidad; Portuguese, vis----"
 
 "'What do we care about your viscos and viscovuses?"
 retorted Mrs. Grippin. "When you talk common English,
@@ -827,7 +827,7 @@ A GLIMPSE OF FARM SERVICE.
 
 The farmhouse had been built in the days of Ratke's
 prosperity. It was gothic in design and had three principal
-rooms -- the sitting-room, the dining-room and the
+rooms--the sitting-room, the dining-room and the
 parlor.
 
 On the northern side, and extending to the kitchen at
@@ -1099,7 +1099,7 @@ retorted the housekeeper; "you, with your nonsense that
 nobody else can stand? I'd talk about hobbies."
 
 "No, no, Maria," mildly expostulated the major. "A
-Hobbist means --"
+Hobbist means--"
 
 "I don't care what it means," interrupted Mrs. Grippin.
 "James Ratke, if you don't go down there I won't get a
@@ -1136,7 +1136,7 @@ independent decision.
 will are persuasive and not coercive." Here the major
 paused and spatted his hands with great emphasis.
 
-"Proposition III.: Whenever in --"
+"Proposition III.: Whenever in--"
 
 There was a rustling in the bushes followed by a succession
 of very rapid and heavy blows from an ax. Going
@@ -1335,11 +1335,11 @@ The first missive which the major opened bore a Washington
 postmark and read as follows:
 
 
-    Washington, D. C, March 4, 187-
+    Washington, D. C., March 4, 187-
     Mr. J. Ratke,
 
     Break o'Day, Mich.
-    Dear Sir:-- As the commissioner expresses doubt concerning
+    Dear Sir:--As the commissioner expresses doubt concerning
     the practical value of your invention, I find it is difficult
     to obtain a patent. I must receive fifty dollars before I
     proceed further.
@@ -1843,7 +1843,7 @@ is the greatest curse which this community has ever seen.
 More, than beer, more than whisky, more than the horse-thieves,
 against whom so many anathemas have been breathed, cider
 is bringing its awful harvest of pain and crime. But in
-this congregation, -- for I see them now, -- are
+this congregation,--for I see them now,--are
 men in whose cellars are cider barrels, whose sons,
 following their father's lead, descend the stairs, turn the
 faucet and change themselves into receptacles of the potion
@@ -2601,7 +2601,7 @@ of winter. How he would enjoy watching them as the gradual
 decline in temperature came on. They would slap
 their hands and stamp with their feet and put off the
 hardship of work as long as they could, but they would have
-to -- yes, they would have to, get up and shovel or freeze.
+to--yes, they would have to, get up and shovel or freeze.
 Then, when they were industriously at their work, he would
 remove the obstacle and let the pleasant warmth again
 stream down upon them. Of course there would be a
@@ -2781,7 +2781,7 @@ intelligence?"
 
 "Assuredly," replied the professor.
 
-"And intelligence is divided into two kinds --conscious
+"And intelligence is divided into two kinds--conscious
 and unconscious?"
 
 "That is the theory of the leading men of to-day, sir,"
@@ -3123,7 +3123,7 @@ were by a few clubs sent yelping back to the residence of
 Takum.
 
 "Nice help the boss picked out for me," commented
-Montcalm --"a fool and his dogs."
+Montcalm--"a fool and his dogs."
 
 "I'm a-goin' back," said Philetus, "I ain't a-goin' to
 stay here to be abused."
@@ -3281,8 +3281,8 @@ at once."
 
 Philetus was by the protection of a not unfamiliar
 retreat, for it was the hen-house which he had so often
-visited. His instinct of thieving -- for the propensity
-had become an instinct -- was stronger than his fear of
+visited. His instinct of thieving--for the propensity
+had become an instinct--was stronger than his fear of
 Montcalm, especially in the absence of the latter. In a
 very short time he had one of Sparks' matchless Cochins
 stuffed inside his jacket. His intrusion aroused a cackling
@@ -3562,7 +3562,7 @@ retreat.
 
 The ground, which in most swamps is highest at the
 center, was here quite dry. It was covered by moss, on
-which was spread a finer carpeting -- the leaves which had
+which was spread a finer carpeting--the leaves which had
 dropped the preceding fall; and over it arched the
 tamaracks, which had put forth their peculiar pointed
 foliage before the phlegmatic oaks of the upland had
@@ -3933,7 +3933,7 @@ go in three minutes."
 "Taylor has no blood as slow as three minutes," replied
 the major. "Taylor's sire was Aleck, he by King Henry,
 he by Maurice A., he by the Duke of Argyle. Taylor's
-dam was Matilda, sired by Cal, he by MarshalNey, he by
+dam was Matilda, sired by Cal, he by Marshal Ney, he by
 Royal John. Matilda went in 2:28 on Long Island, and
 every horseman knows that Aleck could distance Wellington."
 
@@ -4407,11 +4407,11 @@ pow-wow."
 "Yes, Pa," cried Julia. "And I want some dresses
 and rings, and you promised me a breastpin."
 
-"Oh, yes, you want," grumbled Wallace -- "you want a
+"Oh, yes, you want," grumbled Wallace--"you want a
 good deal, but you won't get it. Montcalm, hadn't you
 better pay me for them jugs of cider that you had me
 take to Jimmy and old John? That's worth thirty cents
-a gallon -- sixty cents."
+a gallon--sixty cents."
 
 "All right," answered Montcalm, as he felt in his pocket
 for some silver. "It is right that you should have it."
@@ -4444,7 +4444,7 @@ results, writhed from her grasp and fled from the house.
 
 "Yes, I certainly shall," answered Montcalm.
 
-"When?" asked Julia -- "next Sunday night?"
+"When?" asked Julia--"next Sunday night?"
 
 "I cannot promise," said Montcalm. "I will come as
 soon as possible."
@@ -6560,7 +6560,7 @@ Barton hundred and sixty. What would you do?"
 "Do not pay him one cent," replied Montcalm, with an
 energy which he had not exhibited for days. "He wants
 to get your entire property. Let him have this farm, but
-keep ----
+keep----
 
 "What!" exclaimed the major, "let the place go without
 an attempt to save it? Do you know how I have become
@@ -8826,7 +8826,7 @@ were drenched with perspiration.
 
 "What kind of looking man?" asked Mrs. Boyle.
 
-"I don't care a -- what kind of a lookin' feller,"
+"I don't care a--what kind of a lookin' feller,"
 returned Alf. "Have you seen anybody go by?"
 
 "No, I haven't," said Mrs. Boyle.
@@ -8938,7 +8938,7 @@ asked John.
 "No," returned Mrs. Boyle, "you never stole horses.
 As soon as you feel strong enough, you must tell me how
 they came to accuse you of any such thing. They are
-almost all miserable men that I saw go by, -- I mean the
+almost all miserable men that I saw go by,--I mean the
 ones that I am acquainted with. I knew five or six of
 them, and only two are what people call good citizens."
 
@@ -9838,7 +9838,7 @@ was signed J. Boutwell, president. On the note-head was
 printed J. Boutwell, President; T. C. Parker, Treasurer.
 
 "Fortune is with me, Maria," said the philosopher.
-"The Madgeburg wagon works are among the -largest in
+"The Madgeburg wagon works are among the largest in
 the country. If they believe the New Jerusalem is
 a success, fifty thousand dollars is no price for it. Its
 value once proven, it will take everything by storm. I
@@ -9943,12 +9943,12 @@ best men of Sharptown, carried away by his eloquence,
 became admirers of the singular vehicle. Before the
 spectators had asked half the questions which they wished
 to propound, he drove to the Cass House, thinking it
-advisible to leave their curiosity but partly appeased.
+advisable to leave their curiosity but partly appeased.
 
 The hotel which had been appointed as the place of
 meeting, was the most pretentious in the town. The major
 was conducted to a room where he found the president
-of the Madgeburg wagon works. Br Boutwell was a very
+of the Madgeburg wagon works. Mr. Boutwell was a very
 good-looking man with a business-like air, which was
 sustained by his manner, words and clothes. Ratke would
 have liked him better had he shown more of the agent's
@@ -11087,7 +11087,7 @@ they shoot at you?'
 "'Both,' I answered.
 
 "'Well, that's queer,' said the sergeant. 'We heard
-only one shot'
+only one shot.'
 
 "'I should think it is queer,' I answered. 'I fired at
 them. Then they got between me and the camp and fired
@@ -12210,7 +12210,7 @@ citizen, every poor citizen for that matter, the rich and
 the poor, the high and the low, all of 'em ought to be
 be ready to put down crime. Crime, which kills, crime,
 which steals, crime, which robs, crime, which forges, crime,
-which slanders, crime, which -- does mean acts, crime is
+which slanders, crime, which--does mean acts, crime is
 the worst curse this country ever had and the most
 destructive to its morality."
 
@@ -12412,7 +12412,7 @@ learn how they done it."
 had the big hunt, everybody got disgusted and didn't go a
 cent's worth on the committee. All of 'em laid the whole
 blame off on Ole Jerus'lem, But, when they had such a
-time with that feller, what was his name? -- Wrengell -- they
+time with that feller, what was his name?--Wrengell--they
 found a road that had been cut out in the swamp, yes, sir,
 a regular road, and a place where horses had been kept.
 Then Ole Jerus'lem, he was hot, you know, he raised a
@@ -12424,7 +12424,7 @@ Jerus'lem do but hatch up a plan with the committee
 hatch up a plan with the committee, you know, to watch
 the house nights. They didn't stay away only one day.
 They come back, and one night Jim Turner was a watching
--- he thinks there never was a man like Jerus'lem -- he
+--he thinks there never was a man like Jerus'lem--he
 saw 'em go out of the house. He followed 'em down beyond
 Oakville, and there they got a horse from a barn
 that belonged to a man by the name of Matthews. Jim
@@ -13412,7 +13412,7 @@ don't believe I want none. Times is hard with me."
 "You better take a bottle. Mister," urged Panicky.
 
 "You'll never regret it. I knew a man out in Oakland
-County ----"
+County----"
 
 "I don't want none," said the old man with decision.
 
@@ -13563,7 +13563,7 @@ have you?"
 
 "Certainly." responded Durgenson. "But I'm awful
 busy just now. You go to number one hundred and nine
- ---- Street. Tell the man you want to stay all night. I'll
+---- Street. Tell the man you want to stay all night. I'll
 be up there in from one to three hours. Don't go out in the
 street, because I'm in a hurry and want to find you there
 when I come. I mean business. I'll make your fortune."
@@ -14393,7 +14393,7 @@ Baldwin.
 
 "He said he did," returned John. "He said he knew
 something to my advantage with he wished to tell me.
-He instructed me to go to No. 109 ---- Street, where we
+He instructed me to go to No. 109---- Street, where we
 would hold a consultation."
 
 "He wanted to get you away," said Mrs. Baldwin. "I
@@ -14998,7 +14998,7 @@ away with the kettle. "There ain't any Mr. Lehmann
 here. That's John Wrengell, and he's a nobody. He
 stole a horse and got chased out of Break o'Day. He
 come to see me once. I told him to keep right away, for
-I wouldn't have anything to do with him, -- the scurf o'
+I wouldn't have anything to do with him,--the scurf o'
 the earth. I'd like to claw him."
 "I don't believe it," returned Ellen. "He wouldn't
 look at you, nor the likes of you, you great freckled thing.
@@ -15906,7 +15906,7 @@ despised had become honored, the weak had become
 strong.
 
 They looked long at the fragments of apple-blossoms
-which were dropping In the moonlight. One other May
+which were dropping in the moonlight. One other May
 they had been in that orchard, aye, under that very tree,
 and had marked the beauty of the sight, a beauty
 enhanced by the manifold augmentation of fancy. How
@@ -15926,7 +15926,7 @@ I do not wish you to prove that I have had no enjoyment."
 
 THE END.
 
-[Transcribers's Notes]
+[Transcriber's Notes]
 
 This work was scanned and processed with optical character
 recognition (OCR) by Google. However, there was much to
@@ -15954,4 +15954,4 @@ were revised and made into a book by E. Everett Howe that had
 quite a sale. Four editions were published by Robert Smith
 Printing company."
 
-[End Transcribers's Notes]
+[End Transcriber's Notes]
