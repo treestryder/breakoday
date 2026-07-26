@@ -1,15 +1,15 @@
 # Proofreader Notes
 
 * [Volunteers’ FAQ](https://www.gutenberg.org/help/volunteers_faq.html)
-* [](https://copy.pglaf.org/status.php?id=51054)
+* [submit/resubmit](https://copy.pglaf.org/status.php?id=51054)
 
-Title: The Chronicles of Break O' Day
+Title in sentence case: The chronicles of Break O' Day
 Author: Edward Everett Howe
 
 Clearance Key: 20130301194840howe
 Scans archive: https://archive.org/details/chroniclesbreak00howegoog
 Credit: Nathan Hartley from scans obtained at the Internet Archive
-Notes to Whitewashers: For Al Haines attention
+Notes to Whitewashers: For Al Haines attention. Remaining gutcheck findings match source. See https://github.com/treestryder/breakoday/blob/master/whitewashers/_gutcheck.txt
 eBookmaker output: https://ebookmaker.pglaf.org/cache/20260228190501/output.txt
 
 

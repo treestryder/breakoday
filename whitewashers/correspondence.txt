@@ -145,3 +145,35 @@ I realized later that the line numbers in the first set of reports wouldn't matc
 
 And in case you weren't sure what a "wrongspaced quote" was, look at line 187 of the text file.  (It's also wrong in the HTML file.)  There are many such misplaced quotes.
 
+
+________________________________________
+Uploaded at July 26, 2026 9:40 am PDT by Nathan Hartley <ns1+gp@7hartleys.org>
+
+TITLE=The Chronicles of Break O' Day
+AUTHOR/CREATOR=Edward Everett Howe
+PUBLISHER=Arena Publishing Company
+SCANS_ARCHIVE_URL=https://archive.org/details/chroniclesbreak00howegoog
+CREDIT=Nathan Hartley from scans obtained at the Internet Archive
+NOTIFY=Nathan Hartley <ns1+gp@7hartleys.org>,    
+NOTES=For Al Haines attention.
+Remaining gutcheck findings match source.
+See https://github.com/treestryder/breakoday/blob/master/whitewashers/_gutcheck.txt
+OUTPUT_TEXT_LINK=https://ebookmaker.pglaf.org/cache/20260726093215/output.txt
+LANGUAGE=English
+FILES=The_Chronicles_Of_Break_O_day.zip
+SIZE=1084917
+CLEARED=OK	20130301194840howe	The Chronicles of Break O' Day	Edward Everett Howe	1893:c 	
+
+Archive:  /home/spool/The_Chronicles_Of_Break_O_day.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  2026-07-26 09:40   images/
+   543127  2026-02-26 22:39   images/cover.jpg
+   914949  2026-07-24 21:12   The_Chronicles_Of_Break_O_day.html
+   671528  2026-07-25 00:32   The_Chronicles_Of_Break_O_day.txt
+---------                     -------
+  2129604                     4 files
+
+
+Nu HTML check: validation of uploaded file: 1 info, 1 errors
+ebookmaker check: no ERROR or CRITICAL items in output.txt
