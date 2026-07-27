@@ -177,3 +177,23 @@ Archive:  /home/spool/The_Chronicles_Of_Break_O_day.zip
 
 Nu HTML check: validation of uploaded file: 1 info, 1 errors
 ebookmaker check: no ERROR or CRITICAL items in output.txt
+
+
+________________________________________
+From: ajhaines
+Sent: Sunday, July 26, 2026 1:53 PM
+Subject: RE: [pgww] Uploaded The_Chronicles_Of_Break_O_day.zip The Chronicles of Break O' Day
+
+Hello, Nathan,
+
+Is there some reason the text file wasn't formatted to have 60-70 characters/line, as per PG's standards?  (Most of the lines are under 60 chars.)
+
+The HTML file doesn't validate.  The validator's report says line 9 ends with "/>"--this isn't critical, but the slash isn't needed for HTML5.  The report also says that line 13443 has a closing "</p>", but there's no matching opening "<p>".  (These were also reported in the output.txt file (lines 9-13) produced by ebookmaker.)
+
+FYI, in the text file, line 11844 ends with "be", which should probably be "he".  This is in the HTML file, too.
+
+When you have a corrected fileset, mention in the upload form's Notes to Whitewashers field that it's for my attention.
+
+Al Haines
+Project Gutenberg
+
