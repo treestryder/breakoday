@@ -197,3 +197,40 @@ When you have a corrected fileset, mention in the upload form's Notes to Whitewa
 Al Haines
 Project Gutenberg
 
+
+________________________________________
+From: Nathan
+Sent: Monday, July 27, 2026 12:01 AM
+To: ajhaines
+Subject: Re: [pgww] Uploaded The_Chronicles_Of_Break_O_day.zip The Chronicles of Break O' Day
+
+Is there some reason the text file wasn't formatted to have 60-70 characters/line, as per PG's standards?  (Most of the lines are under 60 chars.)
+I've been a fan of Project Gutenberg since the days of accessing it via Telnet and Gopher. Later, I discovered that my great-great-great-grandfather was involved in the writing of a book set in the area where I grew up, and I thought it would make a great addition to Project Gutenberg.
+
+At first, I looked into buying or building a scanning rig, or even transcribing the book myself. Then I discovered that Google had already scanned it. Perfect, I thought—all I would need to do was correct a few OCR artifacts. How long could that take? A few evenings while my five children were asleep, perhaps.
+
+I'm still working on it more than 13 years later.
+
+As for the line lengths, beyond unhyphenating words that had been split at line endings, I intentionally left the text file's line breaks matching the source text. I wasn't aware that Project Gutenberg's standards required reformatting every line to 60–70 characters. 😞
+
+
+________________________________________
+From: ajhaines
+Sent: Monday, July 27, 2026 1:18 AM
+To: Nathan
+Subject: RE: [pgww] Uploaded The_Chronicles_Of_Break_O_day.zip The Chronicles of Break O' Day
+
+This was in my February 28, 2026 email to you:
+ 
+The text file should be formatted to 60-70 characters/line, as discussed in the Volunteers' FAQ.  You should look at a few of the text files already in PG--click on any newest releases on PG's home page (https://www.gutenberg.org/), then on the "Plain Text UTF-8" link under "Reading Options".  You'll see that the line lengths are reasonably consistent, unlike those in your text file.
+ 
+A link to the above-mentioned Volunteers’ FAQ was in my first email to you.
+
+
+________________________________________
+From: Nathan
+Sent: Monday, July 27, 2026 10:16 AM
+To: ajhaines
+Subject: Re: [pgww] Uploaded The_Chronicles_Of_Break_O_day.zip The Chronicles of Break O' Day
+
+I thought that you had called out a few long lines... I did not imagine that you were saying the entire thing had to be reformatted.
