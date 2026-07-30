@@ -2,89 +2,83 @@
 
 File: C:\Users\Natha\src\breakoday\book\The Chronicles Of Break O'day.txt
 
-   --> There are 544 "be"s and 2341 "he"s. Calibrating...
+   --> There are 543 "be"s and 2342 "he"s. Calibrating...
 
-"Trace told me he thought it was a hard sight, and he
--    Line 446 column 26 - Query phrase "me he thought" 
+"Trace told me he thought it was a hard sight, and he would fire, but
+    Line 396 column 26 - Query phrase "me he thought" 
 
-receiving encouragement to continue his remarks, he allowed
--    Line 1523 column 60 - Query phrase " he allowed" 
+his remarks, he allowed his own appreciation of his sagacity to be
+    Line 1343 column 24 - Query phrase " he allowed" 
 
-found in the front of the procession, he is apt to abandon
--    Line 2000 column 6 - Query phrase "afterward be found" 
+the laggard may not afterward be found in the front of the
+    Line 1749 column 39 - Query phrase "afterward be found" 
 
-debt, and he paid the mortgage on his place."
--    Line 2538 column 18 - Query phrase "and he paid" 
+Montcalm. "My father was heavily in debt, and he paid the mortgage on
+    Line 2225 column 54 - Query phrase "and he paid" 
 
-left of an oval knot. This done, he traced out the normal
--    Line 2583 column 43 - Query phrase " he traced" 
+of an oval knot. This done, he traced out the normal which with the
+    Line 2265 column 38 - Query phrase " he traced" 
 
-returned, unchanged, to their former position. It was
--    Line 3519 column 9 - Query phrase "again be returned" 
+lifted aside carefully, that they might again be returned, unchanged,
+    Line 3075 column 58 - Query phrase "again be returned" 
 
-Stepping out of doors, be saw the thief-hunters, who
-x    Line 3763 column 30 - Query phrase " be saw" 
+"Taylor's sire was Aleck, he by King Henry, he by Maurice A., he by
+    Line 3438 column 32 - Query phrase " he by" 
 
-the major. "Taylor's sire was Aleck, he by King Henry,
--    Line 3934 column 43 - Query phrase " he by" 
+"Taylor's sire was Aleck, he by King Henry, he by Maurice A., he by
+    Line 3438 column 50 - Query phrase " he by" 
 
-he by Maurice A., he by the Duke of Argyle. Taylor's
--    Line 3935 column 6 - Query phrase " he by" 
+"Taylor's sire was Aleck, he by King Henry, he by Maurice A., he by
+    Line 3438 column 68 - Query phrase " he by" 
 
-he by Maurice A., he by the Duke of Argyle. Taylor's
--    Line 3935 column 24 - Query phrase " he by" 
+the Duke of Argyle. Taylor's dam was Matilda, sired by Cal, he by
+    Line 3439 column 66 - Query phrase " he by" 
 
-dam was Matilda, sired by Cal, he by MarshalNey, he by
--    Line 3936 column 37 - Query phrase " he by" 
+Marshal Ney, he by Royal John. Matilda went in 2:28 on Long Island,
+    Line 3440 column 19 - Query phrase " he by" 
 
-dam was Matilda, sired by Cal, he by MarshalNey, he by
--    Line 3936 column 55 - Query phrase " he by" 
+them along the highway, which was quite deserted, he ascertained to
+    Line 4066 column 65 - Query phrase " he ascertained" 
 
-deserted, he ascertained to his surprise that they led
--    Line 4654 column 25 - Query phrase " he ascertained" 
+tightly from him, he severed it with his knife and immediately after
+    Line 4698 column 29 - Query phrase " he severed" 
 
-That would he ninety cents. I'll call it six shillings."
-x    Line 5285 column 21 - Query phrase "would he ninety" 
+burglar, he precipitated himself upon him. Montcalm whose movements
+    Line 4898 column 25 - Query phrase " he precipitated" 
 
-severed it with his knife and immediately after entered the
--    Line 5374 column 8 - Query phrase " he severed" 
+lean man, so very lean, that, doubled up as he was, he shot inside of
+    Line 5233 column 60 - Query phrase "man, ..., he shot" 
 
-he precipitated himself upon him. Montcalm whose
--    Line 5599 column 16 - Query phrase " he precipitated" 
+of a tree. When he had been seated a few minutes, he separated a
+    Line 5969 column 63 - Query phrase " he separated" 
 
-he had been seated a few minutes, he separated a letter
--    Line 6866 column 47 - Query phrase " he separated" 
-
-easily have cleared it at a leap; and he landed, therefore,
--    Line 7875 column 48 - Query phrase "and he landed" 
+cleared it at a leap; and he landed, therefore, in the muddy bottom,
+    Line 6841 column 36 - Query phrase "and he landed" 
 
 unintentionally, he preserved his notoriety.
--    Line 8035 column 30 - Query phrase " he preserved" 
+    Line 6980 column 30 - Query phrase " he preserved" 
 
-antagonistic, it is his duty to yield to the former; but be who
-x    Line 9411 column 64 - Query phrase "but be who" 
+"I think Queen Elizabeth was. Let's see. What was it he said when he
+    Line 9679 column 61 - Query phrase "it he said" 
 
-it he said when he got on board the steamer that was to
--    Line 11178 column 11 - Query phrase "it he said" 
+it of his boyhood. What would he not give to be as he was and sport
+    Line 10205 column 37 - Query phrase "would he not" 
 
-What would he not give to be as he was and sport in the
--    Line 11786 column 18 - Query phrase "would he not" 
+him of the awful glare he had seen in the mystic land of which be had
+    Line 10253 column 70 - Query phrase "which be had" 
 
-had dreamed, and he knew that his Ramoth Gilead had
--    Line 11845 column 4 - Query phrase "which be had" 
+what next occurred, he seated himself on a stick of hewn timber near
+    Line 10320 column 30 - Query phrase " he seated" 
 
-passed. Indifferent as to what next occurred, he seated
--    Line 11921 column 56 - Query phrase " he seated" 
+head him off, and he shot within four inches of my hand, and the next
+    Line 10688 column 26 - Query phrase "and he shot" 
 
-a boat trying to head him off, and he shot within four
--    Line 12345 column 43 - Query phrase "and he shot" 
+strangers, he seated himself, but his brief season of congratulation
+    Line 10714 column 21 - Query phrase " he seated" 
 
-and that he was in the presence of strangers, he seated
--    Line 12373 column 56 - Query phrase " he seated" 
+supposed that he would remain on his farm where he would erect a new
+    Line 11142 column 9 - Query phrase " he supposed" 
 
-major's misfortunes, he supposed that he would remain
--    Line 12864 column 33 - Query phrase " he supposed" 
-
-stamped, on the stand by his bed, he prepared to go to
--    Line 12868 column 46 - Query phrase " he prepared" 
+on the stand by his bed, he prepared to go to the street.
+    Line 11145 column 37 - Query phrase " he prepared" 
 

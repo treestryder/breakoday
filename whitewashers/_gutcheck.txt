@@ -2,263 +2,232 @@
 
 File: C:\Users\Natha\src\breakoday\book\The Chronicles Of Break O'day.txt
 
-   --> 10 lines in this file contain '.,'. Not reporting them.
-   Matches source.
-
-   --> 1310 lines in this file are short. Not reporting short lines.
-   Matches source.
-
-   --> There are 22 spaced dashes and em-dashes. Not reporting them.
-   Matches source.
+   --> 11 lines in this file contain '.,'. Not reporting them.
 
 
 E. EVERETT HOWE
-    Line 3 column 15 - No punctuation at para end?
-Matches source.
+-    Line 3 column 15 - No punctuation at para end?
 
-Next to the "one-man saw" the ax was the tool most
-    Line 134 column 24 - endquote missing punctuation?
-Matches source.
+Next to the "one-man saw" the ax was the tool most shunned about the
+-    Line 123 column 24 - endquote missing punctuation?
 
-alacrity, "Derrick's Dough of Life." "There's Bill Higgins
-    Line 331 column 36 - Query missing paragraph break?
-Matches source.
+"Derrick's Dough of Life." "There's Bill Higgins had a colt that got
+-    Line 296 column 26 - Query missing paragraph break?
 
-"'When will the great day come? "For the day of vengeance
-    Line 665 column 33 - Wrongspaced quotes?
-Matches source.
+"'When will the great day come? "For the day of vengeance is in mine
+-    Line 586 column 33 - Wrongspaced quotes?
 
-"'"From the time that the daily sacrifice shall be taken
-    Line 668 column 3 - Wrongspaced quotes?
-Matches source.
+"'"From the time that the daily sacrifice shall be taken away, and
+-    Line 589 column 3 - Wrongspaced quotes?
 
-there shall be a thousand two hundred and ninety days."
-    Line 670 column 55 - Wrongspaced quotes?
-Matches source.
+thousand two hundred and ninety days."
+-    Line 591 column 38 - Wrongspaced quotes?
 
-"'"From the time that the daily sacrifice shall be taken
-    Line 671 - Mismatched quotes
-Matches source.
+"'"From the time that the daily sacrifice shall be taken away, and
+-    Line 592 - Mismatched quotes
 
-'"'That which the palmer-worm hath left hath the locust
-    Line 676 - Mismatched quotes
-Matches source.
+'"'That which the palmer-worm hath left hath the locust eaten; and
+-    Line 596 - Mismatched quotes
 
-'"'We've had the caterpillar and the grasshopper and the
-    Line 679 - Mismatched quotes
-Matches source.
+'"'We've had the caterpillar and the grasshopper and the potato-bug
+-    Line 599 - Mismatched quotes
 
-"Tat ain't te reason at all," answered a tall German
-    Line 872 column 11 - Query word te - not reporting duplicates
-Matches source.
+"Tat ain't te reason at all," answered a tall German with dark hair
+ -   Line 771 column 11 - Query word te - not reporting duplicates
 
-he said slowly and emphatically,
-    Line 1130 column 32 - No punctuation at para end?
-Matches source.
+observed he said slowly and emphatically,
+-    Line 990 column 41 - No punctuation at para end?
 
-"Proposition I.: The will of man has the power of
-    Line 1132 column 15 - Double punctuation?
-Matches source.
+"Proposition I.: The will of man has the power of independent
+-    Line 992 column 15 - Double punctuation?
 
-"Proposition II.: All external forces acting upon the
-    Line 1135 column 16 - Double punctuation?
-Matches source.
+"Proposition II.: All external forces acting upon the will are
+-    Line 995 column 16 - Double punctuation?
 
-"Proposition III.: Whenever in --"
-    Line 1139 column 17 - Double punctuation?
-Matches source.
+"Proposition III.: Whenever in--"
+-    Line 999 column 17 - Double punctuation?
 
-    Washington, D. C, March 4, 187-
-    Line 1338 column 34 - Hyphen at end of line?
-Matches source.
+    Washington, D. C., March 4, 187-
+-    Line 1179 column 35 - Hyphen at end of line?
 
-Co. of Marlboro, Ohio.
-    Line 1479 column 3 - Extra period?
-Matches source.
+the Buckeye Manufacturing Co. of Marlboro, Ohio.
+-    Line 1305 column 29 - Extra period?
 
-Swift. Do you think I would write the, 'Tale of a Tub'?
-    Line 2010 column 38 - Query punctuation after the?
-Matches source.
+with as vulgar a satirist as Swift. Do you think I would write the,
+-    Line 1758 column 67 - Query punctuation after the?
 
-lady's proper title is Mrs.; and he had broadened this
-    Line 2080 column 27 - Double punctuation?
-Matches source.
+title is Mrs.; and he had broadened this definition until he made it
+-    Line 1820 column 13 - Double punctuation?
 
-"Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
-    Line 2169 column 18 - Query punctuation after my?
-Matches source.
+"Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated Nora, making no
+-    Line 1901 column 18 - Query punctuation after my?
 
-"Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated
-    Line 2169 column 26 - Query punctuation after my?
-Matches source.
+"Oh, dear! Oh, my! Oh, my! Oh, dear!" ejaculated Nora, making no
+-    Line 1901 column 26 - Query punctuation after my?
 
-my! Oh, dear! 'Sometimes they die and oft do grieve.'
-    Line 2174 column 3 - Query punctuation after my?
-Matches source.
+glee. "Oh! that's awful good, Mr. Archer. That's splendid. Oh! my!
+-    Line 1904 column 66 - Query punctuation after my?
 
-word "forever" in capitals looked to him unnecessarily
-    Line 2690 column 13 - endquote missing punctuation?
-Matches source.
+pen. The word "forever" in capitals looked to him unnecessarily
+-    Line 2358 column 22 - endquote missing punctuation?
 
-"Proposition I.: Conscious intelligence alone possesses
-    Line 2833 column 15 - Double punctuation?
-Matches source.
+"Proposition I.: Conscious intelligence alone possesses the power of
+-    Line 2485 column 15 - Double punctuation?
 
 "Proposition II.: Time is a period of constant progress.
-    Line 2836 column 16 - Double punctuation?
-Matches source.
+-    Line 2488 column 16 - Double punctuation?
 
-"Proposition III.: The creation of the complex requires
-    Line 2838 column 17 - Double punctuation?
-Matches source.
+"Proposition III.: The creation of the complex requires a higher
+-    Line 2490 column 17 - Double punctuation?
 
-"Proposition IV.: A tree is not created by conscious
-    Line 2842 column 16 - Double punctuation?
-Matches source.
+"Proposition IV.: A tree is not created by conscious intelligence.
+-    Line 2493 column 16 - Double punctuation?
 
 "Proposition V.: A top is created by conscious intelligence.
-    Line 2845 column 15 - Double punctuation?
-Matches source.
+-    Line 2495 column 15 - Double punctuation?
 
-James. Oh my! Ain't it fun! We're gaining on him."
-    Line 2930 column 13 - Query punctuation after my?
-Matches source.
+box. "Don't you let him beat you, Uncle James. Oh my! Ain't it fun!
+-    Line 2567 column 53 - Query punctuation after my?
 
 "In which barn is Madge T.?" he asked.
-    Line 3274 column 26 - Double punctuation?
-Matches source.
+-    Line 2868 column 26 - Double punctuation?
 
-dam was Matilda, sired by Cal, he by MarshalNey, he by
-    Line 3936 column 37 - Query word MarshalNey - not reporting duplicates
-Matches source.
+Una and the red-cross knight, could be lost in a wood,
+-    Line 4172 column 54 - No punctuation at para end?
 
-knight, could be lost in a wood,
-    Line 4778 column 32 - No punctuation at para end?
-Matches source.
-
-parlor. "It's cool in here. Oh my! Isn't this a nice
-    Line 5004 column 34 - Query punctuation after my?
-Matches source.
+cool in here. Oh my! Isn't this a nice place? I'll shut the door,"
+-    Line 4376 column 20 - Query punctuation after my?
 
 the house broken into. There was the $2,000 gone."
-    Line 5909 column 22 - Query punctuation after into?
-Matches source.
+-    Line 5158 column 22 - Query punctuation after into?
 
-you had to up an' play that mean trick on 'im,"
-    Line 6153 column 47 - No punctuation at para end?
-Matches source.
+you your clothes, an' you had to up an' play that mean trick on 'im,"
+-    Line 5366 column 69 - No punctuation at para end?
 
-the "Goad" Ratke called on the editor and demanded that
-    Line 9242 column 9 - endquote missing punctuation?
-Matches source.
+Answer me that, John." "I see," said Ratke, "my words, sent to your
+-    Line 6152 column 22 - Query missing paragraph break?
 
-to the Indianapolis "Standard" will greatly benefit me.
-    Line 9292 column 21 - Wrongspaced quotes?
-Matches source.
+gained the eminence and beheld the welcome signs of
+x    Line 6862 column 51 - Short line 51?
 
-to the Indianapolis "Standard" will greatly benefit me.
-    Line 9292 column 30 - Wrongspaced quotes?
-Matches source.
+the appearance of the exaggerated article in the "Goad" Ratke called
+-    Line 8021 column 54 - endquote missing punctuation?
 
-to the Indianapolis "Standard" will greatly benefit me.
-    Line 9292 column 29 - endquote missing punctuation?
-Matches source.
+Indianapolis "Standard" will greatly benefit me. You described my
+-    Line 8065 column 14 - Wrongspaced quotes?
 
-to reaction and in a contrary direction.'"
-    Line 10242 column 42 - Wrongspaced quotes?
-Matches source.
+Indianapolis "Standard" will greatly benefit me. You described my
+-    Line 8065 column 23 - Wrongspaced quotes?
 
-only one shot'
-    Line 11090 column 14 - No punctuation at para end?
-Matches source.
+Indianapolis "Standard" will greatly benefit me. You described my
+-    Line 8065 column 22 - endquote missing punctuation?
+
+equal to reaction and in a contrary direction.'"
+-    Line 8879 column 48 - Wrongspaced quotes?
+
+against her. She was sent to. the penitentiary for a year. It was
+x    Line 8998 column 29 - Extra period?
 
 He was a poet, you know."
-    Line 11188 column 25 - Wrongspaced quotes?
-Matches source.
+-    Line 9689 column 25 - Wrongspaced quotes?
 
-regards to his nephew "Johnny"? Had he known, as he stood
-    Line 12709 column 29 - endquote missing punctuation?
-Matches source.
+back, and one night Jim Turner was a watching --he thinks there never
+x    Line 10759 column 47 - Spaced em-dash?
 
-"I reckoned likely," pursued Wrengell. "I've been
-    Line 12899 - Mismatched quotes
-Matches source.
+"Johnny"? Had he known, as he stood before the hospital, the
+-    Line 11004 column 7 - endquote missing punctuation?
 
-can tell 'em, and so can I."
-    Line 12929 column 28 - Wrongspaced quotes?
-Matches source.
+"I reckoned likely," pursued Wrengell. "I've been slandered. I was
+-    Line 11171 - Mismatched quotes
 
-passenger-house. A pair of trucks with "Phoenix Mills" labeled
-    Line 13279 column 53 - endquote missing punctuation?
-Matches source.
+Old Zack can tell 'em, and so can I."
+    Line 11196 column 37 - Wrongspaced quotes?
+
+pair of trucks with "Phoenix Mills" labeled on the box was passing
+    Line 11500 column 34 - endquote missing punctuation?
 
 saving its preponderance of length,
-    Line 13534 column 35 - No punctuation at para end?
-Matches source.
+    Line 11720 column 35 - No punctuation at para end?
+
+go to number one hundred and nine ---- Street. Tell the man you want
+    Line 11748 column 35 - Spaced em-dash?
+
+go to number one hundred and nine ---- Street. Tell the man you want
+    Line 11748 column 37 - Spaced em-dash?
+
+"Stop," she cried. "I want to see you." "Maybe you'd better go in,"
+    Line 11762 column 39 - Query missing paragraph break?
 
 "A minstrel sang often Euterpa's gay song
-    Line 14187 - Mismatched quotes
-Matches source.
+    Line 12277 - Mismatched quotes
 
-"War Measures," "Reconstruction," "Currency."
-    Line 14341 column 15 - Query missing paragraph break?
-Matches source.
+"Reconstruction," "Currency."
+    Line 12414 column 17 - Query missing paragraph break?
 
-leaving her breakfast dishes unwashed, "stole a march"
-    Line 14950 column 53 - endquote missing punctuation?
-Matches source.
+109---- Street, where we would hold a consultation."
+    Line 12461 column 6 - Spaced em-dash?
 
-all running at once. It's, 'Dabney, I want some panacea,'
-    Line 15426 column 26 - Query punctuation after it's?
-Matches source.
+"stole a march" on the hated Ellen. Next morning the enterprising
+    Line 12935 column 14 - endquote missing punctuation?
 
-From "An Account of Ingham County From Its Organization"
-    Line 15941 column 55 - endquote missing punctuation?
-Matches source.
+that," said Ellen. "It's all the one I've got like it." "You can if
+    Line 12958 column 55 - Query missing paragraph break?
 
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-    Line 15944 column 6 - Forward slash?
-Matches source.
+the big kettle I use don't fit on the stove good." "You're a-getting
+    Line 12960 column 50 - Query missing paragraph break?
 
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-    Line 15944 column 1 - Query word http - not reporting duplicates
-Matches source.
+getting out of here before long. Mrs. Durgenson says so." "I guess I
+    Line 12964 column 57 - Query missing paragraph break?
 
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-    Line 15944 column 26 - Query word m - not reporting duplicates
-Matches source.
+him." "I don't believe it," returned Ellen. "He wouldn't look at you,
+    Line 12975 column 5 - Query missing paragraph break?
 
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-    Line 15944 column 37 - Query digit in ARH7656.0001.001
-Matches source.
+Mrs. Durgenson'll have you out of here in a week." "Durgenson has
+    Line 13001 column 50 - Query missing paragraph break?
 
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-    Line 15944 column 12 - Missing space?
-Matches source.
+did you come?" "I drove out with my team," replied John.
+    Line 13261 column 14 - Query missing paragraph break?
 
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-    Line 15944 column 16 - Missing space?
-Matches source.
+"What in the world!" exclaimed Mrs. Grippin, as they. came around the
+    Line 13279 column 53 - Extra period?
 
-http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292
-    Line 15944 column 22 - Missing space?
-Matches source.
+summer-complaint and hay-fever, all running at once. It's, 'Dabney, I
+    Line 13337 column 58 - Query punctuation after it's?
 
-"Rough and Ready," and he edited a set of stories about White
-    Line 15951 column 1 - Wrongspaced quotes?
-Matches source.
+From "An Account of Ingham County From Its Organization" by Frank
+    Line 13775 column 55 - endquote missing punctuation?
 
-"Rough and Ready," and he edited a set of stories about White
-    Line 15951 column 18 - Wrongspaced quotes?
-Matches source.
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292 "G. W.
+    Line 13777 column 6 - Forward slash?
 
-Oak and Leroy townships, "Chronicles of Break o'Day." These
-    Line 15952 column 26 - Wrongspaced quotes?
-Matches source.
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292 "G. W.
+    Line 13777 column 1 - Query word http - not reporting duplicates
 
-Oak and Leroy townships, "Chronicles of Break o'Day." These
-    Line 15952 column 53 - Wrongspaced quotes?
-Matches source.
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292 "G. W.
+    Line 13777 column 26 - Query word m - not reporting duplicates
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292 "G. W.
+    Line 13777 column 37 - Query digit in ARH7656.0001.001
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292 "G. W.
+    Line 13777 column 12 - Missing space?
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292 "G. W.
+    Line 13777 column 16 - Missing space?
+
+http://quod.lib.umich.edu/m/micounty/ARH7656.0001.001/292 "G. W.
+    Line 13777 column 22 - Missing space?
+
+all kinds of stories. His pen name was "Rough and Ready," and he
+    Line 13783 column 40 - Wrongspaced quotes?
+
+all kinds of stories. His pen name was "Rough and Ready," and he
+    Line 13783 column 57 - Wrongspaced quotes?
+
+"Chronicles of Break o'Day." These were revised and made into a book
+    Line 13785 column 1 - Wrongspaced quotes?
+
+"Chronicles of Break o'Day." These were revised and made into a book
+    Line 13785 column 28 - Wrongspaced quotes?
 
 Note: Queried word te was duplicated 33 times
-Matches source.
