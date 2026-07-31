@@ -4,6 +4,7 @@
 * [submit/resubmit](https://copy.pglaf.org/status.php?id=51054)
 
 Title in sentence case: The chronicles of Break O' Day
+Title in submitted case: The Chronicles of Break O' Day
 Author: Edward Everett Howe
 
 Clearance Key: 20130301194840howe
