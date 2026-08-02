@@ -267,5 +267,28 @@ Archive:  /home/spool/The_Chronicles_Of_Break_O_day.zip
   2127485                     4 files
 
 
+________________________________________
 Nu HTML check: validation of uploaded file: OK
 ebookmaker check: no ERROR or CRITICAL items in output.txt
+
+
+From: ajhaines <ajhaines@shaw.ca>
+Sent: Thursday, July 30, 2026 11:59 PM
+To: posted@lists.pglaf.org <posted@lists.pglaf.org>
+Subject: Posted (#79241, Howe) !
+
+The Chronicles of Break O' Day, by Edward Everett Howe                    79241
+  [Author: Edward Everett Howe]
+  [Link: https://www.gutenberg.org/ebooks/79241 ]
+
+  note: link will be active within two hours of posting.
+
+Thanks to Nathan Hartley from scans obtained at the Internet Archive
+
+Regards,
+Al
+
+
+________________________________________
+
+It is finished.
