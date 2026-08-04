@@ -13,6 +13,9 @@ Credit: Nathan Hartley from scans obtained at the Internet Archive
 Notes to Whitewashers: For Al Haines attention. Remaining gutcheck findings match source. See https://github.com/treestryder/breakoday/blob/master/whitewashers/_gutcheck.txt
 eBookmaker output: https://ebookmaker.pglaf.org/cache/20260228190501/output.txt
 
+## Visual Studio Code Extensions
+* [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+* [Rewrap Revived](https://marketplace.visualstudio.com/items?itemName=dnut.rewrap-revived)
 
 
 ## Scanned Book
